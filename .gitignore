@@ -4,6 +4,7 @@
 .obsidian/cache
 .obsidian/plugins/*/data.json
 .obsidian/hotkeys.json
+.obsidian/plugins/
 
 # OS generated files
 .DS_Store
