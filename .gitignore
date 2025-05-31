@@ -18,4 +18,8 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*~
+*~.obsidian/plugins/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/hotkeys.json
