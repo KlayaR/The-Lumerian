@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "heritage-aetherium-style"
+  ],
+  "textFontFamily": "Helvetica",
+  "interfaceFontFamily": "Helvetica,Roboto"
+}

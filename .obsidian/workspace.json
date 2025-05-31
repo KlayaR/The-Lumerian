@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "b0c00ad47e41fa7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cd1a7f66cc0b873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cafd28ef71fd40cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db1a82617906793",
+    "type": "split",
+    "children": [
+      {
+        "id": "401419304576f99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6937f011104e7b07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4fc059c75847066",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "339fbbcfacadb61f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d242f93d50f3b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ee020be4c022ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aabf2c658b47c6e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Univers/Système Magique/Nexus Aetherique.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nexus Aetherique"
+            }
+          },
+          {
+            "id": "c5e20e73d491420e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Système Magique/Aetherium.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aetherium"
+            }
+          },
+          {
+            "id": "9082f03436b7d0a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bfba23f190c5db6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03-Système Magique/Aetherium.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aetherium"
+            }
+          },
+          {
+            "id": "32c64a0e63b3027f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6937f011104e7b07",
+  "lastOpenFiles": [
+    "05 - Développement Narratif/Arcs et Intrigues/Sous-Intrigues.md",
+    "Excalidraw/Drawing 2025-05-25 13.34.59.excalidraw.md",
+    "RAPPORT_INCOHÉRENCES.md",
+    "Excalidraw",
+    "03 - Univers/Société et Culture/Politique et Société.md",
+    "07 - Références/Ligne Temporelle Détaillée.md",
+    "04 - Histoire et Artefacts/Histoire du Monde.md",
+    "02 - Personnages/Antagonistes/Leo de Valoir.md",
+    "05 - Développement Narratif/Tomes/Tome 1 - Éveil.md",
+    "02 - Personnages/Famille/Sarah Rousseau.md",
+    "02 - Personnages/Famille/Thomas Rousseau.md",
+    "02 - Personnages/Famille/Mia Rousseau.md",
+    "02 - Personnages/Personnages Clés/Vivienne de Beauchêne.md",
+    "02 - Personnages/Personnages Clés/Vesper.md",
+    "02 - Personnages/Personnages Clés/Premier Magus.md",
+    "02 - Personnages/Personnages Clés/Julien Astarel.md",
+    "02 - Personnages/Personnages Clés/Darius Montclair.md",
+    "02 - Personnages/Personnages Clés/Antoine Amara.md",
+    "02 - Personnages/Protagonistes/Lara Thompson.md",
+    "02 - Personnages/Protagonistes/Rémy Lavigne.md",
+    "02 - Personnages/Protagonistes/Éric Rousseau.md",
+    "02 - Personnages/Protagonistes/Lara Thompson - Corrected.md",
+    "02 - Personnages/Protagonistes/Elise de Beauchêne.md",
+    "03 - Univers/Système Magique/Ombres et Oblivium.md",
+    "03 - Univers/README.md",
+    "05 - Développement Narratif/Tomes/README.md",
+    "07 - Références/Glossaire.md",
+    "Histoire",
+    "Lieux",
+    "02 - Personnages/Personnel Académie",
+    "02 - Personnages/Autres Élèves",
+    "02 - Personnages/Personnages Clés",
+    "02 - Personnages/Antagonistes",
+    "02 - Personnages/Famille",
+    "02 - Personnages/Protagonistes",
+    "Personnages",
+    "characters/remy-lavigne-2qoV4rQk6q0dmnSJuxy9uS1F4rD/thumbnail.jpg",
+    "objects/le-codex-arcanum-2qrtuDdVwLeyDGGQhAi2B0qn6nM/thumbnail.jpg",
+    "objects/la-sphere-celeste-2qrtwXLewyPtX68rixIiQ3ZEAyJ/thumbnail.jpg",
+    "objects/elarion-2qrtzdPg1xN5ZIRPNIJWQphNCc9/thumbnail.jpg",
+    "locations/le-faubourg-des-arcanes-2qrtjKmZ9sum6xIzGwdd2eyBfnl/thumbnail.jpg",
+    "locations/la-grande-bibliotheque-2qrtlnaH49wIPqDcPIOmExaoMe2/thumbnail.jpg",
+    "locations/academie-des-arcanes-2qrtbfg6HgMe1fBsLfnBub3FzYC/thumbnail.jpg",
+    "characters/vivienne-de-beauchene-2qorgCrhZ8cSPMtBSA6EEWvonDq/thumbnail.jpg",
+    "characters/thomas-rousseau-2qooS39w4n9neWgqEqVAQNfyPX5/thumbnail.jpg",
+    "characters/sarah-rousseau-2qooppU6lZ4pZAG9BZoiDsjb6hu/thumbnail.jpg"
+  ]
+}
