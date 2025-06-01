@@ -65,7 +65,7 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 - **Relationship with Marcus:** Professional respect → Verified competence → Intellectual partnership → Romance
 - **Unique Contribution:** Acoustic expertise enables multiple-operator solutions and global coordination
 
-### **Viktor Kazansky (Primary Antagonist → Redeemed Brother)**
+### **Viktor Kazansky (Primary Antagonist)**
 - **Background:** Family Friend. Killed Marcus' Parent
 - **Conflict:** Family bonds vs. institutional conditioning
 - **Arc:** Perfect killer → Conflicted operative → Protective brother
