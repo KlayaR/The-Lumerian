@@ -328,3 +328,59 @@
 - **Timeline Pressure:** Crisis urgency makes gradual integration impossible, but alternatives are worse
 - **Integration Strategy:** Must prove cooperation model works or lose chance for sustainable solution forever
 - **Survival Logic:** Only integrated approach ensures both species survive long-term environmental challenges
+# Council of Twelve Elders
+### **Organizational Structure - Detailed**
+
+**The Council of Voices (Leadership)**
+- **7 Elder Voices:** Senior leaders who vote on major policy decisions
+- **Elder Matthias Kronos:** Current First Voice, 78 years old, believes in 200-year integration timeline
+- **Dr. Amara Okafor:** Second Voice, 52, advocates for faster scientific revelation
+- **Professor Chen Wei-Ming:** Third Voice, 61, focuses on educational infiltration
+- **Each Elder** oversees different aspects: academia, media, government, science, culture, economics, security
+
+**Regional Coordination**
+- **Continental Directors:** Oversee operations across major regions (North America, Europe, Asia, etc.)
+- **National Coordinators:** Manage country-specific integration efforts
+- **City Cells:** 3-12 operatives working on local influence operations
+- **Individual Assets:** Academics, journalists, scientists providing information and influence
+
+**Estimated Membership:** 2,500 active operatives worldwide, 15,000+ influenced assets
+
+### **Operational Methods - Detailed**
+
+**Primary Objectives:**
+1. **Gradual Scientific Revelation:** Slowly introduce asteroid-stone technology through "human discoveries"
+2. **Cultural Preparation:** Use media and education to normalize ideas about ancient advanced civilizations
+3. **Government Infiltration:** Place allies in key positions to manage revelation when it comes
+4. **Climate Crisis Management:** Reveal ancient climate technology as "newly discovered" human solution
+5. **Peaceful Integration:** Achieve human-Lumerian cooperation through careful long-term planning
+
+**Operational Methods:**
+- **Academic Infiltration:** Echo Circle members become professors, researchers, department heads
+- **Media Influence:** Documentaries, books, and articles that slowly shift public opinion
+- **Government Positions:** Advisors, consultants, and low-level officials who can shape policy
+- **Think Tank Operations:** Environmental groups, archaeological societies, climate research organizations
+- **Gradual Technology Introduction:** "Discovering" simplified versions of asteroid-stone technology
+
+**Timeline Strategy:** 50-100 year plan for full revelation and integration
+
+### **Resources - Detailed**
+
+**Financial Resources:**
+- $2.8 billion in assets across multiple foundations and research grants
+- Control of 12 major environmental organizations with combined $800M annual budgets
+- Influence over $15 billion in climate research funding globally
+- Network of 200+ wealthy human supporters who unknowingly fund operations
+
+**Infrastructure:**
+- **Primary Base:** Yellowstone Research Complex (geothermal research cover)
+- **Regional Centers:** 25 facilities worldwide disguised as research institutions
+- **Safe Houses:** 150+ locations for emergency operations and meetings
+- **Communication Network:** Encrypted academic and environmental networks
+- **Ancient Site Access:** Legal excavation permits for 8 Primary Nodes, 40+ Regional Hubs
+
+**Technological Assets:**
+- **Climate Monitoring:** Advanced human-Lumerian hybrid systems tracking global changes
+- **Research Facilities:** Asteroid-stone analysis labs in 15 countries
+- **Transportation:** Private aircraft, research vessels, academic exchange networks
+- **Information Network:** Access to most major climate and archaeological databases

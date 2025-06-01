@@ -296,3 +296,67 @@
 
 *Faction Status: Shadow controllers whose secrecy doctrine conflicts with planetary survival needs*  
 *Cross-references: Asteroid Material & Energy Systems, Viktor Kazansky Character Profile*
+# Shadow Council
+### **Organizational Structure - Detailed**
+
+**The Shadow Council (Leadership)**
+- **The Director:** Identity unknown, possibly committee rather than individual
+- **5 Section Chiefs:** Operations, Intelligence, Technology, Assets, Elimination
+- **Viktor Kazansky:** Chief of Special Operations, handles high-priority terminations
+- **Dr. Heinrich Weber:** Chief of Technology, manages captured alien tech and weapons
+- **Colonel Rebecca Hayes:** Chief of Intelligence, oversees global surveillance network
+
+**Operational Divisions**
+- **Wet Work Division:** 50 elite assassins and tactical specialists
+- **Intelligence Division:** 200 analysts, surveillance specialists, infiltration experts
+- **Technology Division:** 75 scientists and engineers working on captured/stolen tech
+- **Assets Division:** 300 field operatives managing human government infiltration
+- **Cleanup Division:** 150 specialists who handle exposure incidents and evidence destruction
+
+**Government Infiltration**
+- **Deep State Network:** Key positions in CIA, NSA, FBI, Pentagon, State Department
+- **International Reach:** Intelligence agency contacts in 40+ countries
+- **Military Assets:** Special Forces units that can be deployed for "national security" operations
+- **Corporate Network:** Defense contractors, technology companies, media conglomerates
+
+**Estimated Membership:** 800 core operatives, 5,000+ government/corporate assets
+
+### **Operational Methods - Detailed**
+
+**Primary Objectives:**
+1. **Absolute Secrecy Maintenance:** Eliminate all threats to Lumerian exposure
+2. **Faction Suppression:** Neutralize Echo Circle's revelation efforts and Conflux's superiority agenda
+3. **Human Government Control:** Maintain influence over global security apparatus
+4. **Technology Monopoly:** Capture and control all asteroid-stone technology
+5. **Population Control:** If necessary, reduce human population to manageable levels during crisis
+
+**Operational Methods:**
+- **Targeted Elimination:** Assassination of individuals who threaten exposure
+- **Technology Seizure:** Capture asteroid-stone artifacts and advanced Lumerian tech
+- **Information Warfare:** Discredit revelations as conspiracy theories or hoaxes
+- **Government Manipulation:** Use national security concerns to justify extreme measures
+- **False Flag Operations:** Create incidents that justify increased surveillance and control
+
+**Crisis Response Strategy:** If exposure becomes inevitable, trigger major global conflict to destabilize civilization enough to discredit/bury revelations
+
+### **Resources - Detailed**
+
+**Financial Resources:**
+- $50 billion in dark budget funding from various intelligence agencies
+- Control of 3 major defense contractors worth $200+ billion combined
+- Network of 50 front companies generating $5 billion annually
+- Access to unlimited "national security" funding during crisis situations
+
+**Infrastructure:**
+- **Primary Base:** Nevada Black Site (officially doesn't exist)
+- **Regional Command Centers:** 15 facilities worldwide in military/intelligence complexes
+- **Safe Houses:** 500+ locations globally, many in government facilities
+- **Detention Centers:** 12 black sites for interrogation and containment
+- **Communication Network:** Military-grade encrypted systems, satellite access
+
+**Military Assets:**
+- **Special Forces Units:** 3 companies of enhanced operatives (300 personnel)
+- **Conventional Forces:** Can requisition military units through government infiltration
+- **Advanced Weapons:** Asteroid-stone enhanced firearms, surveillance tech, vehicles
+- **Air Assets:** Stealth aircraft, armed drones, satellite reconnaissance
+- **Naval Assets:** Submarines, fast attack boats for maritime operations
