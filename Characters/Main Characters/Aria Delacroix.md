@@ -124,19 +124,6 @@
 - **Problem-Solving Synergy:** Together they can access and operate ancient systems neither could handle alone
 - **Research Integration:** Her historical context provides framework for his technical discoveries
 
-**Relationship Development Timeline (Respecting Marcus's Trust Issues):**
-- **Months 1-3 (Ch 120-140):** Professional colleagues working on parallel research - mutual respect for competence
-- **Months 4-6 (Ch 141-160):** Partnership deepens through shared challenges - demonstrated reliability during crisis
-- **Months 7-12 (Ch 161-200):** Friendship develops as repeated collaboration proves trustworthiness
-- **Months 13-18 (Ch 201-240):** Personal regard grows through understanding of each other's motivations and values
-- **Months 19-24 (Ch 241-280):** Physical attraction acknowledged after extensive trust verification
-- **Months 25-36 (Ch 281-400):** Emotional intimacy develops as Marcus's analytical verification confirms complete trustworthiness
-
-**Communication Evolution:**
-- *Early:* "Your electromagnetic readings provide fascinating acoustic context. The frequency patterns suggest resonance-based activation."
-- *Professional:* "When you interface with the ancient systems, I can hear the harmonic responses. We're operating this technology as it was designed - as a partnership."
-- *Personal:* "Marcus, your analytical mind doesn't frighten me. It's how you understand the world, and it's... c'est magnifique how you see patterns others miss."
-
 ### **Viktor Kazansky (Shared Enemy)**
 - **Professional Threat:** Recognizes Viktor as dangerous enemy who threatens their research and lives
 - **Strategic Opposition:** Uses archaeological fieldwork experience to help evade surveillance and plan escapes
@@ -180,40 +167,6 @@
 - **Cultural Assumptions:** European directness occasionally misreads American social dynamics
 - **Professional Isolation:** Academic rejection of her theories left her without institutional support network
 - **Independence Conflict:** Strong personal autonomy sometimes conflicts with partnership requirements
-
----
-
-## 🔄 **Character Arc Development**
-
-### **Phase 1: Professional Recognition (Ch 120-140)**
-- **Introduction:** Arrives at Seattle Museum following acoustic research trail
-- **Initial Interaction:** Recognizes Marcus's work as complementary to her own research
-- **Professional Respect:** Both acknowledge the other's expertise without competition or jealousy
-- **Early Collaboration:** First joint investigation reveals their combined abilities unlock ancient technology
-
-### **Phase 2: Partnership Formation (Ch 141-180)**
-- **Crisis Collaboration:** Faction pressure forces them to work together for mutual protection
-- **Skill Integration:** Learn to combine EM interface and acoustic analysis for maximum effectiveness
-- **Trust Building:** Repeated reliability during dangerous situations proves trustworthiness
-- **Intellectual Synergy:** Discover their different approaches create solutions neither could achieve alone
-
-### **Phase 3: Essential Partnership (Ch 181-240)**
-- **Co-Protagonist Status:** Becomes equally important to plot progression - not Marcus's helper but his partner
-- **Site Exploration:** Archaeological expertise essential for safely accessing hidden ancient installations
-- **Technology Operation:** Ancient climate systems require both EM and acoustic interfaces working together
-- **Strategic Planning:** Field experience provides crucial tactical knowledge for evading Viktor
-
-### **Phase 4: Personal Connection (Ch 241-300)**
-- **Friendship Deepening:** Personal regard develops through understanding motivations and values
-- **Physical Attraction:** Acknowledged after extensive trust verification satisfies Marcus's analytical requirements
-- **Emotional Boundaries:** Respects Marcus's need for systematic verification without pressure or manipulation
-- **Partnership Evolution:** Relationship enhances rather than conflicts with professional collaboration
-
-### **Phase 5: Co-Leadership (Ch 301-400)**
-- **Crisis Management:** Joint leadership during climate system crisis resolution
-- **Essential Expertise:** Acoustic knowledge absolutely required for final system activation
-- **Emotional Intimacy:** Deep personal connection based on complete trust verification and mutual respect
-- **Future Planning:** Partnership extends beyond crisis to ongoing ancient technology research and relationship
 
 ---
 
@@ -264,4 +217,4 @@
 
 ---
 
-*Character Status: Complete profile establishing Aria as essential co-protagonist with unique acoustic archaeology expertise*
+*Character development arc details: See `/Plot/Character Arcs/Aria Delacroix Arc.md`*

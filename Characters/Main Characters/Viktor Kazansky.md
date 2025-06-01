@@ -92,14 +92,6 @@
 
 ---
 
-## 🔄 **Character Arc**
-- **Phase 1: Perfect Operative (Ch 1-100):** Flawless assassin hunting Marcus while managing faction conflicts
-- **Phase 2: Questioning Hunter (Ch 101-200):** Extended pursuit forces engagement with consequences of past actions
-- **Phase 3: Internal Crisis (Ch 201-300):** Suppressed moral recognition breaks through conditioning
-- **Phase 4: Final Choice (Ch 301-400):** Must choose between faction loyalty and recognition of humanity
-
----
-
 ## 🗣️ **Voice & Communication**
 - **Speech Patterns:** Minimal speech with faint Russian accent, precise economical language
 - **Signature Phrases:** "It is necessary," "The mission requires," "Stability must be maintained"
@@ -117,3 +109,7 @@
 - **Character Mirror:** Shows what Marcus could become under different circumstances
 - **Redemption Question:** Tests whether anyone can overcome systematic conditioning
 - **Legacy Catalyst:** Forces Marcus to confront truth about his parents and identity
+
+---
+
+*Character development arc details: See `/Plot/Character Arcs/Viktor Kazansky Arc.md`*
