@@ -1,11 +1,11 @@
-# The Lumerian Chronicles
+# The Lumerian
 *A Technical Thriller Webnovel Project*
 
 ---
 
 ## 📖 **Project Overview**
 
-**The Lumerian Chronicles** is an ambitious 400+ chapter webnovel combining urban fantasy, action thriller, romance, and science fiction elements. The story follows Marcus Reeves, a paranoid analyst who discovers ancient alien technology while investigating his parents' assassination, triggering a shadow war between three factions racing to prevent Earth's climate system from catastrophically failing.
+**The Lumerian is an ambitious 400+ chapter webnovel combining urban fantasy, action thriller, romance, and science fiction elements. The story follows Marcus Reeves, a paranoid analyst who discovers ancient civilization while investigating his parents' assassination, gaining knowledge of a shadow war between three factions racing to prevent Earth's climate system from catastrophically failing.
 
 **Target Audience:** Readers who appreciate intelligent protagonists, systematic world-building, competence-based romance, and technical problem-solving over chosen one narratives.
 
