@@ -1,4 +1,4 @@
-# Lumerian Language & Culture - REVISED
+# Lumerian Language & Culture
 *Cultural foundations without harmonic language system*
 
 ---

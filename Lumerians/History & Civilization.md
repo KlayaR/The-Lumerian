@@ -1,4 +1,4 @@
-# Lumerian History & Civilization - REVISED
+# Lumerian History & Civilization
 *Complete timeline with asteroid origin and pathway development*
 
 ---
