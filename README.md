@@ -14,7 +14,7 @@
 ## 🎯 **Core Story Concept**
 
 ### **The Premise**
-Marcus Reeves, a 25-year-old enhanced analyst, discovers he can interface with 12,800-year-old asteroid-stone technology while investigating his parents' murder. His abilities trigger a deadly conflict between three Lumerian factions as Earth's ancient climate management system approaches catastrophic failure - threatening to transform the planet into an uninhabitable Venus-like world within three years.
+Marcus Reeves, a 25-year-old enhanced analyst, discovers he can interface with 12,800-year-old asteroid-stone technology while investigating his parents' murder. He finds himself in the middle of a conflict between three Lumerian factions as Earth's ancient climate management system approaches catastrophic failure - threatening to transform the planet into an uninhabitable Venus-like world within three years.
 
 ### **The Anti-Hero Angle**
 Unlike typical chosen one narratives, Marcus solves the crisis through **analytical competence** and **technical expertise** rather than destiny or heroic sacrifice. He gets exactly what he wants: to return to independent research with an intellectual equal partner, using his enhanced abilities for personally satisfying projects rather than ongoing world-saving duties.
@@ -34,7 +34,7 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 
 - **Act 2: Escalation Phase (Chapters 101-300)** - 18 months timeline  
   - Global chase across ancient sites worldwide
-  - Alien interference revelation and faction cooperation
+  - Asteroid interference revelation and faction cooperation
   - Power development and relationship deepening
 
 - **Act 3: Resolution Phase (Chapters 301-400+)** - 12 months timeline
@@ -54,7 +54,7 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 
 ### **Marcus Alexander Reeves (Protagonist)**
 - **Age:** 25 | **Background:** Digital systems consultant with severe trust issues
-- **Abilities:** Enhanced cognition, electromagnetic mastery, pattern recognition, ancient system interface
+- **Abilities:** Enhanced cognition, pattern recognition, ancient system interface
 - **Personality:** Hyper-analytical, institutionally cynical, emotionally guarded but professionally cooperative
 - **Arc:** Isolated analyst → Technical coordinator → Independent researcher
 - **Final Goal:** Returns to research life with intellectual partner, enhanced abilities for personal projects
@@ -76,10 +76,11 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 ## 🌍 **World-Building Elements**
 
 ### **The Lumerian Heritage**
-- **Ancient civilization** that deliberately crashed exotic matter asteroid into their dying planet
+- **Ancient civilization** that deliberately crashed asteroid into their dying planet to prevent climate crisis
 - **Asteroid-stone technology** enables climate management and cognitive enhancement
 - **Pathway enhancement** - dormant abilities activated in Lumerian descendants
 - **Three modern factions** with different approaches to crisis and human integration
+- **Civilization Responsible for global mysteries** like the Great Pyramid, Göbekli Tepe, Puma Punku / Tiwanaku, etc
 
 ### **The Climate Crisis**
 - **12,800-year-old system** artificially stabilizing Earth's climate approaching failure
@@ -89,7 +90,6 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 
 ### **Enhancement System**
 - **Cognitive boost:** 20-30% faster processing speed
-- **Electromagnetic sensitivity:** Detection and control of electronic systems
 - **Advanced reflexes:** Combat effectiveness through analytical prediction
 - **System interface:** Direct consciousness connection with ancient technology
 - **Limitation:** 15-30 minute sessions before toxicity risks
