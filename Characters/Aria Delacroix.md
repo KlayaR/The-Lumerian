@@ -259,3 +259,7 @@
 - Love based on deep understanding and demonstrated trustworthiness over extended time
 - Marcus's emotional walls gradually lower due to systematic verification of her character
 - Relationship proves analytical people can have profound connections through demonstrated reliability
+# - Physical attraction acknowledged after long period of intellectual partnership
+- Physical attraction finally acknowledged after over 2 years of intellectual partnership
+# - Marcus comfortable with physical intimacy before emotional vulnerability
+- Marcus comfortable with physical intimacy only after extensive trust verification over multiple years
