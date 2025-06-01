@@ -6,7 +6,7 @@
 
 ## 📋 **Basic Information**
 - **Full Name:** Marcus Alexander Reeves
-- **Age:** 23
+- **Age:** 25
 - **Occupation:** Museum researcher and digitization technician at Seattle Museum of Natural History
 - **Location:** Seattle, Washington
 - **Heritage:** Lumerian descendant with dormant metaphysical pathways
@@ -15,7 +15,7 @@
 ---
 
 ## 🏠 **Background & Heritage**
-- **Family History:** Raised by aunt Catherine after parents died in suspicious car accident when he was 8
+- **Family History:** Raised by aunt Catherine after parents died in suspicious car accident when he was 3
 - **Parents' Secret:** Jonathan and Sarah Reeves were both pathway-enhanced Lumerians working as Echo Circle operatives
 - **Hidden Legacy:** Parents concealed their heritage to give Marcus normal childhood
 - **Assassination:** Silent Veil eliminated parents for violating secrecy protocols in their research
@@ -27,7 +27,7 @@
 ## ⚡ **Pathway Enhancement System**
 
 ### **Activation Process**
-- **Trigger Event:** Museum ring containing asteroid stone awakened dormant pathways at age 23
+- **Trigger Event:** Museum ring containing asteroid stone awakened dormant pathways at age 25
 - **Exposure Timeline:** Daily contact with artifact gradually strengthened pathway system
 - **Development Period:** Abilities manifest and grow stronger over 6-12 months of exposure
 - **Material Dependency:** Requires continued contact with asteroid material for optimal function

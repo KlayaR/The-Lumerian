@@ -106,3 +106,5 @@ Viktor serves Silent Veil because:
 Viktor's evolution from perfect operative to questioning agent creates a crisis for Silent Veil's operational effectiveness. His final choice between faction loyalty and personal redemption determines whether the shadow war escalates or finds resolution.
 
 When he finally faces Marcus in confrontation, it's not just hunter vs. quarry - it's the past confronting the future, guilt facing innocence, and systematic dehumanization meeting authentic humanity. The outcome shapes both characters' destinies and the fate of human-Lumerian relations.
+# Viktor personally killed Marcus's parents in 2003 during an operation to prevent their cooperation research from reaching other factions. It was clinical, efficient, and necessary - at least that's how he's rationalized it for two decades.
+Viktor personally killed Marcus's parents in 2003 during an operation to prevent their cooperation research from reaching other factions. It was clinical, efficient, and necessary - at least that's how he's rationalized it for two decades.

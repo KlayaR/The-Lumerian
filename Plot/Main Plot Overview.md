@@ -199,3 +199,9 @@ Climate monitoring shows final cascade beginning. The team has six months to rea
 
 *Main Plot Status: Final rewrite optimized for maximum webnovel excellence*  
 *Rating Target: 10/10 for logical consistency, character development, action, romance, and spectacle*
+# Marcus Reeves, a cynical museum researcher with severe trust issues, discovers electromagnetic anomalies in ancient artifacts while secretly investigating his parents' murder. His discovery triggers a deadly shadow war between three factions of an ancient subspecies, forcing him to protect Dr. Aria Delacroix - a brilliant archaeologist who becomes both his intellectual equal and romantic interest - while staying ahead of Viktor Kazansky, a ruthless Silent Veil operative who orchestrated his parents' assassination.
+Marcus Reeves, a cynical museum researcher with severe trust issues, discovers electromagnetic anomalies in ancient artifacts while secretly investigating his parents' murder. His discovery triggers a deadly shadow war between three factions of an ancient subspecies, forcing him to protect Dr. Aria Delacroix - a brilliant archaeologist who becomes both his intellectual equal and romantic interest - while staying ahead of Viktor Kazansky, a ruthless Silent Veil operative who orchestrated his parents' assassination 22 years ago when Marcus was only 3 years old.
+# **Background:** Silent Veil operative who killed Marcus's parents 15 years ago
+**Background:** Silent Veil operative who killed Marcus's parents 22 years ago
+# Viktor is revealed as the agent who orchestrated Marcus's parents' assassination 15 years ago - a methodical, intelligent killer who views Marcus as unfinished business.
+Viktor is revealed as the agent who orchestrated Marcus's parents' assassination 22 years ago - a methodical, intelligent killer who views Marcus as unfinished business.
