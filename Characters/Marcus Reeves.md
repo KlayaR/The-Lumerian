@@ -381,3 +381,15 @@
 - **Months 9-12 (Friends → Confidants):** Marcus begins sharing analytical insights and personal observations, not emotions
 - **Months 13-18 (Confidants → Lovers):** Physical attraction acknowledged, relationship becomes intimate while maintaining professional focus
 - **Months 19+ (Lovers → Love):** Deep emotional connection based on intellectual partnership and proven reliability
+# Age:** 25
+## 👤 **Physical Appearance**
+- **Height:** 6'1" (185 cm)
+- **Build:** Lean but athletic, runner's physique from restless energy and systematic exercise routine
+- **Hair:** Dark brown, slightly unruly despite attempts to keep it neat, tends to run hands through it when concentrating
+- **Eyes:** Sharp gray-green eyes that seem to constantly analyze everything around him
+- **Complexion:** Pale from spending long hours indoors with computers and artifacts
+- **Facial Features:** Angular jawline, often has a slight furrow between his brows from constant analytical thinking
+- **Posture:** Tends to stand with arms crossed or hands in pockets, defensive but alert body language
+- **Style:** Simple, practical clothing - dark jeans, button-down shirts, fleece jackets. Prioritizes function over fashion
+- **Distinctive Traits:** Intense, focused gaze that can make people uncomfortable; tends to fidget with objects when thinking
+- **Mannerisms:** Adjusts glasses when processing information, drums fingers in mathematical patterns when impatient

@@ -108,3 +108,15 @@ Viktor's evolution from perfect operative to questioning agent creates a crisis 
 When he finally faces Marcus in confrontation, it's not just hunter vs. quarry - it's the past confronting the future, guilt facing innocence, and systematic dehumanization meeting authentic humanity. The outcome shapes both characters' destinies and the fate of human-Lumerian relations.
 # Viktor personally killed Marcus's parents in 2003 during an operation to prevent their cooperation research from reaching other factions. It was clinical, efficient, and necessary - at least that's how he's rationalized it for two decades.
 Viktor personally killed Marcus's parents in 2003 during an operation to prevent their cooperation research from reaching other factions. It was clinical, efficient, and necessary - at least that's how he's rationalized it for two decades.
+# Age:** 46
+## 👤 **Physical Appearance**
+- **Height:** 6'1" (185 cm)
+- **Build:** Lean but powerfully built, predatory grace from decades of combat training
+- **Hair:** Dark brown with premature silver streaks, always perfectly groomed
+- **Eyes:** Cold gray eyes that seem to catalog everything around him as potential threats or assets
+- **Complexion:** Pale with subtle scarring from operations, weathered face that shows his 46 years
+- **Facial Features:** Sharp cheekbones, strong jaw, thin lips that rarely smile. Intense, calculating expression
+- **Posture:** Perfectly controlled, moves with lethal precision. Alert but never appears tense
+- **Style:** Expensive but understated clothing that conceals weapons. Dark suits, quality leather shoes, Swiss watch
+- **Distinctive Traits:** Adjusts his watch before taking action, has a faint scar through his left eyebrow
+- **Mannerisms:** Long silences before speaking, maintains unnervingly steady eye contact, fingers unconsciously tap Morse code patterns

@@ -263,3 +263,15 @@
 - Physical attraction finally acknowledged after over 2 years of intellectual partnership
 # - Marcus comfortable with physical intimacy before emotional vulnerability
 - Marcus comfortable with physical intimacy only after extensive trust verification over multiple years
+# Age:** 26
+## 👤 **Physical Appearance**
+- **Height:** 5'7" (170 cm)
+- **Build:** Athletic and graceful, rock climber's lean strength from archaeological fieldwork
+- **Hair:** Auburn brown with subtle gold highlights, usually in a practical ponytail or braid while working
+- **Eyes:** Warm hazel eyes that shift between green and brown, expressive and intelligent
+- **Complexion:** Light olive skin with a healthy tan from outdoor excavation work
+- **Facial Features:** Strong cheekbones, expressive eyebrows, smile lines from intellectual enthusiasm
+- **Posture:** Confident and alert, moves with precision from years of careful archaeological work
+- **Style:** Practical field clothes - cargo pants, work boots, fitted long-sleeve shirts. Functional over fashionable
+- **Distinctive Traits:** Graceful hand gestures when explaining complex concepts, often touches artifacts gently while examining them
+- **Mannerisms:** Tucks hair behind ear when concentrating, sketches in the air when visualizing structures

@@ -72,3 +72,15 @@ He left mainstream academia after their deaths, unable to continue the lie that 
 Kai serves as Marcus's entry point into the Lumerian world while embodying the cost of past conflicts. His arc explores themes of guilt, redemption, and the weight of knowledge. His eventual sacrifice (likely) will catalyze Marcus's full independence and commitment to his destiny.
 
 His presence grounds the fantastic elements in human emotion and provides exposition naturally through teaching moments. He's the "gray" mentor - not wise sage, but flawed human trying to do better the second time around.
+# Age:** 58
+## 👤 **Physical Appearance**
+- **Height:** 5'9" (175 cm)
+- **Build:** Lean and wiry from years of field work, weathered but still strong
+- **Hair:** Black hair streaked with gray, kept short and practical
+- **Eyes:** Dark brown eyes behind wire-rimmed glasses, often distant with thought
+- **Complexion:** Tanned and lined from decades of outdoor research, weathered hands
+- **Facial Features:** Sharp cheekbones, kind eyes that hold deep sadness, expressive eyebrows
+- **Posture:** Slight stoop from years bent over instruments and data, moves deliberately
+- **Style:** Practical field clothes even indoors - flannel shirts, weather-resistant pants, hiking boots
+- **Distinctive Traits:** Adjusts glasses when uncomfortable, has a habit of checking weather unconsciously
+- **Mannerisms:** Long pauses before speaking difficult truths, drums fingers when processing complex data

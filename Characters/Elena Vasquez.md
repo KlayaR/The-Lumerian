@@ -77,3 +77,15 @@ She provides exposition through her academic expertise while creating tension th
 Elena genuinely believes she's saving the world, and her actions have prevented numerous conflicts. But she's destroyed countless lives through manipulation. She's neither villain nor hero - she's a cautionary tale about what fighting monsters might make you become.
 
 Her environmental work is legitimate and valuable. Her students genuinely benefit from her teaching. But it's all built on lies. The question becomes: does good work justify the deception it's built on?
+# Age:** 42 (appears 35)
+## 👤 **Physical Appearance**
+- **Height:** 5'6" (168 cm)
+- **Build:** Elegant and fit, maintains careful appearance for both academic and operative roles
+- **Hair:** Auburn hair with natural waves, often styled in sophisticated updos or loose around shoulders
+- **Eyes:** Deep brown eyes that seem warm and inviting but miss nothing
+- **Complexion:** Warm olive skin that shows her Spanish heritage, always perfectly maintained
+- **Facial Features:** Classic Mediterranean beauty - high cheekbones, expressive eyebrows, genuine-seeming smile
+- **Posture:** Confident but approachable, moves with practiced grace that draws people in
+- **Style:** Academic chic - tailored blazers, silk scarves, quality jewelry. Professional but with subtle elegance
+- **Distinctive Traits:** Touches her temple when concentrating, has a habit of leaning forward when listening intently
+- **Mannerisms:** Gestures expressively when teaching or explaining, unconsciously mirrors others' body language
