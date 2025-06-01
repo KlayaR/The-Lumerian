@@ -393,3 +393,142 @@
 - **Style:** Simple, practical clothing - dark jeans, button-down shirts, fleece jackets. Prioritizes function over fashion
 - **Distinctive Traits:** Intense, focused gaze that can make people uncomfortable; tends to fidget with objects when thinking
 - **Mannerisms:** Adjusts glasses when processing information, drums fingers in mathematical patterns when impatient
+# Voice & Communication
+## 🗣️ **Voice & Communication - ADVANCED**
+
+### **Core Speech Architecture**
+
+**Vocabulary DNA:**
+- **Technical precision:** "electromagnetic readings," "statistical probability," "systematic analysis"
+- **Process language:** "First," "Therefore," "Based on," "The data indicates"
+- **Conditional logic:** "If X, then Y" constructions dominate his reasoning
+- **Minimal emotional vocabulary:** Feelings described through analytical framework
+- **Quantified expressions:** "23% probability," "three variables," "optimal efficiency"
+
+**Syntax Patterns:**
+- **Complete logical chains:** Each statement builds systematically on the previous
+- **Passive voice preference:** "The evidence suggests" rather than "I believe"
+- **Conditional statements:** Heavy use of if/then logical structures
+- **Minimal filler words:** Never uses "um," "well," "you know" - thinks before speaking
+- **Parallel construction:** Lists things in systematic, organized patterns
+
+### **Emotional Expression Through Analysis**
+
+**Calm State (Normal):**
+```
+"The electromagnetic readings show three distinct frequency patterns. Each correlates with different construction periods, suggesting technological evolution over approximately 2,000 years."
+```
+
+**Moderate Stress (Tactical):**
+```
+"Two explanations. Either the equipment is malfunctioning, or these readings are accurate. Equipment calibration was verified at 0900 hours."
+```
+
+**High Stress (Crisis):**
+```
+"Exit route compromised. Alternative needed. Thirty seconds to decision point."
+```
+
+**Analytical Anger (Cold Fury):**
+```
+"Your methodology contains seven logical fallacies. Should I enumerate them chronologically or by severity of error?"
+```
+
+**Marcus-Style Affection (Competence Recognition):**
+```
+"Your archaeological analysis consistently provides insights my technical approach misses. The partnership improves both our operational effectiveness."
+```
+
+**Marcus-Style Vulnerability (Rare):**
+```
+"The data supports trusting you. My... personal experience suggests otherwise. I'm choosing to follow the data."
+```
+
+### **Relationship-Specific Voice Evolution**
+
+**With Aria (Professional → Personal):**
+
+*Months 1-3 (Strangers):*
+```
+"Your measurements are accurate. The precision tolerances support your construction theory."
+```
+
+*Months 6-12 (Allies):*
+```
+"Your analysis of the acoustic patterns helps explain the electromagnetic anomalies I've been tracking. Neither of us could have solved this independently."
+```
+
+*Months 18+ (Partners):*
+```
+"I've been thinking about your resonance theory. It connects to patterns I've observed in my parents' research. Perhaps... perhaps we should examine those files together."
+```
+
+**With Viktor (Hostile Analytical):**
+```
+"Mr. Kazansky, your credentials check out, but the statistical probability of your appearance coinciding with artifact disappearance is 0.00012%. I don't believe in coincidences."
+```
+
+**With Elena (Exposed Manipulation):**
+```
+"Your Berkeley publication record contains 23 documented inconsistencies. Your manipulation techniques are sophisticated but ineffective against systematic verification. What do you actually want?"
+```
+
+**With Kai (Reluctant Student):**
+```
+"Your instruction methods are effective. The information you're withholding is statistically likely to be more significant than what you're sharing. I'll accept the current arrangement while continuing independent verification."
+```
+
+### **Internal Monologue Style**
+
+**Stream-of-Consciousness Analytical:**
+```
+Three variables: Elena's manipulation timeline, artifact disappearance pattern, Viktor's surveillance indicators. Correlation coefficient suggests coordinated operation. 
+
+Parents' research notes mention "cooperation protocols" - same terminology Elena used. Probability of coincidence: negligible. 
+
+Aria's architectural findings align with electromagnetic patterns. Independent verification supports her competence assessment. Trust calculation: 73% reliable for technical cooperation, insufficient data for emotional projection.
+
+Next action: gather additional data while maintaining operational security.
+```
+
+**Problem-Solving Mode:**
+```
+Ancient site layout: three primary nodes forming triangular configuration. Each node shows electromagnetic activity consistent with asteroid material presence. 
+
+If Aria's acoustic resonance theory is correct, then combined archaeological navigation plus technological interface should trigger activation sequence.
+
+Risk assessment: Unknown technology activation = significant danger. 
+Benefit assessment: Climate system comprehension = species survival.
+Decision matrix clearly favors calculated risk.
+```
+
+### **Dialogue Writing Guidelines**
+
+**DO:**
+- Let Marcus think before speaking (pause beats)
+- Use technical terminology naturally 
+- Have him quantify everything possible
+- Show emotional growth through expanded vocabulary, not changed patterns
+- Include systematic reasoning in conversations
+
+**DON'T:**
+- Make him overly verbose - analysis is efficient
+- Use contractions frequently ("cannot" rather than "can't")
+- Have him express emotions directly until very late in story
+- Force emotional breakthroughs - growth is gradual
+- Break his logical speech patterns even under extreme stress
+
+**Example Complete Dialogue Exchange:**
+```
+Aria: "The acoustic patterns suggest this chamber was designed for harmonic amplification."
+
+Marcus: [pause, processing] "That aligns with the electromagnetic readings. Three resonance points forming an equilateral triangle." [pause] "If your interpretation is correct, standing at the center should trigger a response."
+
+Aria: "You sound uncertain."
+
+Marcus: "Uncertainty is appropriate. Unknown technology represents unquantifiable risk." [pause] "However, the potential for understanding climate system mechanics justifies calculated exposure."
+
+Aria: "Very romantic way to say 'let's try it and see what happens.'"
+
+Marcus: [slight pause, processing humor] "Efficiency and romance rarely correlate. But... effective partnerships often do."
+```

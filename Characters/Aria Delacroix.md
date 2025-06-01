@@ -275,3 +275,179 @@
 - **Style:** Practical field clothes - cargo pants, work boots, fitted long-sleeve shirts. Functional over fashionable
 - **Distinctive Traits:** Graceful hand gestures when explaining complex concepts, often touches artifacts gently while examining them
 - **Mannerisms:** Tucks hair behind ear when concentrating, sketches in the air when visualizing structures
+# Voice Sheet
+## 🗣️ **Voice & Communication - ADVANCED**
+
+### **Core Speech Architecture**
+
+**Vocabulary DNA:**
+- **Scholarly precision:** "archaeological evidence," "structural analysis," "historical precedent"
+- **Cultural references:** Draws from multiple languages and historical periods naturally
+- **Technical confidence:** Uses specialized terminology without condescension
+- **Aesthetic language:** Describes ancient sites with appreciation for artistry and engineering
+- **Intellectual curiosity:** "What if," "Consider the possibility," "This suggests"
+
+**Syntax Patterns:**
+- **Fluid complexity:** Comfortable with sophisticated sentence structures
+- **Cultural multilingual touches:** Occasional French phrases when excited or thinking
+- **Descriptive richness:** Paints vivid pictures of archaeological discoveries
+- **Logical argumentation:** Builds cases through evidence presentation
+- **Collaborative language:** "We could," "Together we might," "Your analysis supports"
+
+### **Emotional Expression Through Intellectual Engagement**
+
+**Calm Professional State:**
+```
+"The precision of these stone cuts suggests engineering capabilities far beyond what we attribute to this time period. The tolerances are within millimeters across massive blocks."
+```
+
+**Excited Discovery Mode:**
+```
+"Marcus, regardez-ça! These acoustic measurements are off the charts. The resonance patterns align perfectly with your electromagnetic readings!"
+```
+
+**Focused Problem-Solving:**
+```
+"If we combine your technical interface with my knowledge of the site layout, we should be able to navigate to the central chamber safely."
+```
+
+**Protective Concern (for Marcus):**
+```
+"The interface sessions are depleting you. We need to find a more sustainable approach before you risk permanent damage."
+```
+
+**Intellectual Affection:**
+```
+"Your systematic approach reveals connections I would never see through pure archaeological methods. We complement each other remarkably well."
+```
+
+**Aria-Style Vulnerability:**
+```
+"I've spent three years believing I was chasing impossible theories. Having someone who not only understands but can prove them... it means more than I can express."
+```
+
+### **Relationship-Specific Voice Evolution**
+
+**With Marcus (Respect → Partnership → Love):**
+
+*Early Professional (Months 1-3):*
+```
+"Your electromagnetic readings provide fascinating context for the architectural anomalies I've documented."
+```
+
+*Growing Partnership (Months 6-12):*
+```
+"Marcus, your technical precision is exactly what my archaeological theories needed. Neither of us could access these sites alone."
+```
+
+*Intimate Partnership (Months 18+):*
+```
+"When you interface with these ancient systems, it's like watching the past and future connect through you. C'est... c'est magnifique."
+```
+
+**With Ancient Sites (Professional Passion):**
+```
+"These stones remember the hands that shaped them. Every cut, every angle tells us about the people who built something meant to last forever."
+```
+
+**With Viktor (Protective Defiance):**
+```
+"Monsieur Kazansky, your threats don't concern me. But if you harm Marcus or destroy these irreplaceable sites, you'll answer to me personally."
+```
+
+**With Elena (Professional Wariness):**
+```
+"Your manipulation techniques may work on others, but I've spent years navigating academic politics. I recognize institutional deception when I see it."
+```
+
+### **Multilingual Voice Patterns**
+
+**French Emotional Expressions:**
+- **Excitement:** "Incroyable!" "Regardez-ça!" "C'est magnifique!"
+- **Frustration:** "Mon Dieu," "C'est impossible," "Quelle catastrophe"
+- **Affection:** "Mon cher," "Chéri" (only with Marcus, late in relationship)
+- **Concentration:** Mutters in French when analyzing complex data
+
+**Professional Multilingual Competence:**
+- Translates ancient languages naturally
+- Explains etymology of technical terms
+- Uses Latin for precision, Greek for emphasis
+- Italian when describing artistic elements
+
+### **Internal Monologue Style**
+
+**Archaeological Analysis Mode:**
+```
+The acoustic resonance points form a perfect triangle - not coincidence, but design. Ancient builders understood harmonic principles we're only now rediscovering.
+
+Marcus's electromagnetic readings prove the engineering wasn't just advanced, it was intentional. These sites were designed to interface with technology, not just human ceremony.
+
+But how did they know? What level of scientific understanding existed 12,000 years ago?
+```
+
+**Relationship Processing (Late Stage):**
+```
+Marcus approaches trust like an equation - systematic verification before emotional investment. Most people would find this cold, but it's actually the most honest approach I've ever encountered.
+
+He doesn't promise feelings he can't guarantee. Instead, he demonstrates reliability through action. It's... refreshing. Real.
+
+When he says our partnership improves his effectiveness, he means I matter to him. In Marcus-speak, that's a declaration of love.
+```
+
+### **Dialogue Writing Guidelines**
+
+**DO:**
+- Let her enthusiasm for discoveries shine through
+- Include natural French expressions when emotional
+- Show her archaeological expertise complementing Marcus's technical skills  
+- Use sophisticated vocabulary without being pretentious
+- Demonstrate her equal intellectual standing with Marcus
+
+**DON'T:**
+- Make French expressions overly frequent or cliché
+- Have her try to change Marcus emotionally
+- Overshadow her competence with romance
+- Force emotional breakthroughs - she respects boundaries
+- Make her explain every cultural reference
+
+**Example Complete Dialogue Exchange:**
+```
+Aria: "The hieroglyphic sequence here describes a 'joining of earth-song and star-light.' Combined with these harmonic measurements..."
+
+Marcus: "Star-light could reference electromagnetic phenomena. The asteroid material generates measurable EM fields."
+
+Aria: "Exactement! And earth-song refers to the acoustic resonance we've been mapping." [touches the stone wall] "This chamber was designed for dual interface - sound and electromagnetic."
+
+Marcus: "Your translation provides the missing operational context. The acoustic sequence triggers electromagnetic cascade."
+
+Aria: "While your interface abilities provide the electromagnetic component my archaeological knowledge couldn't access alone."
+
+Marcus: [slight pause] "Efficient partnership."
+
+Aria: [smiling] "In Marcus-speak, I believe that was a compliment."
+
+Marcus: [nearly smiling] "Analysis confirms: compliment intended."
+```
+
+### **Character Voice Consistency Notes**
+
+**Aria's Voice DNA:**
+- Intellectual excitement expressed through multilingual enthusiasm
+- Competence demonstrated through archaeological expertise and cultural knowledge
+- Partnership orientation through collaborative language and support
+- Emotional authenticity within professional framework
+- Respect for others' boundaries while maintaining her own standards
+
+**Voice Evolution Patterns:**
+- Professional terminology becomes more intimate over time
+- French expressions increase during emotional moments
+- Protective language emerges when Marcus or sites are threatened
+- Collaborative language deepens as partnership strengthens
+- Personal revelation increases gradually as trust builds
+
+**Relationship Communication Style:**
+- Never tries to "fix" Marcus's analytical nature
+- Supports his logical approach while adding emotional context
+- Provides expertise that complements his technical abilities
+- Maintains intellectual equality throughout relationship development
+- Expresses affection through appreciation of competence and reliability
