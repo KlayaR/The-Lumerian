@@ -483,3 +483,11 @@
 - **Professional Excellence:** Technical planning for complex global operation
 - **Partnership Contrast:** Amanda disappointed by Marcus's professional boundaries while Aria appreciates his analytical consistency - establishes foundation for trust-based romance
 - **Cliffhanger:** Race against time as alien countermeasures escalate
+# Chapter 20: Brother Assassin Discovery
+**Chapter 20: Family Betrayal Discovery**
+- Research analysis confirms Viktor as Jonathan Reeves' former protégé and family friend
+- Enhanced correlation analysis reveals Viktor present during parents' deaths  
+- Former mentor's trusted student became the assassin who killed his surrogate family
+- **Personal Stakes Escalation:** Technical challenge becomes betrayal tragedy
+- **Character Reinforcement:** Marcus's cold handling of Lisa contrasts with emotional complexity of betrayal revelation - shows he can compartmentalize attraction/manipulation but betrayal wounds run deeper
+- **Cliffhanger:** Elena forces recruitment ultimatum
