@@ -1,4 +1,4 @@
-# Conflux - Faction Profile
+# Conflux - Faction Profile - REVISED
 *The Technological Supremacists*
 
 ---
@@ -6,10 +6,10 @@
 ## 🎯 **Core Identity**
 - **Official Name:** Conflux (Lumerian: "Aethon Vex" - "Power Convergence")
 - **Public Face:** Advanced research consortium and technology development foundation
-- **True Nature:** Lumerian faction dedicated to demonstrating technological superiority and human guidance
+- **True Nature:** Lumerian faction dedicated to demonstrating technological superiority and enhanced guidance
 - **Founded:** 12,800 years ago (Original doctrine) / 1889 CE (Modern industrial structure)
 - **Leadership:** Technocratic Directorate led by Prime Director Thane Voss
-- **Size:** ~1,800 active members worldwide, ~25,000 human collaborators and employees
+- **Size:** ~5,400 pathway-enhanced members worldwide, ~25,000 human collaborators and employees
 - **Territory:** Silicon Valley, MIT corridor, CERN, major technology centers worldwide
 
 ---
@@ -17,18 +17,18 @@
 ## 📜 **Historical Foundation**
 
 ### **Ancient Origins (12,800 years ago)**
-- **Original Mandate:** Advance Lumerian civilization through technological innovation and expansion
+- **Original Mandate:** Advance enhanced civilization through technological innovation and asteroid-powered expansion
 - **Founding Crisis:** Post-cataclysm survivors who believed superior technology was key to preventing future disasters
-- **Core Mission:** Develop advanced technology to protect and advance both Lumerian and eventually human civilization
+- **Core Mission:** Develop advanced technology to protect and advance both enhanced and eventually human civilization
 - **Early Structure:** Meritocratic councils of engineers, scientists, and technological innovators
-- **Technology Focus:** Advanced engineering, energy systems, and civilization-scale infrastructure
+- **Technology Focus:** Advanced engineering, asteroid energy systems, and civilization-scale infrastructure
 
 ### **Human Development Observation (8,000 BCE - 1000 CE)**
 - **Technological Assessment:** Monitored human development with interest rather than fear
 - **Intervention Experiments:** Limited technological gifts to promising human civilizations
 - **Engineering Marvels:** Secretly assisted in construction of megalithic structures and architectural wonders
 - **Knowledge Seeding:** Introduced mathematical and engineering concepts through selected human contacts
-- **Superiority Confirmation:** Human struggles with gifted technology reinforced beliefs about need for guidance
+- **Superiority Confirmation:** Human struggles with gifted technology reinforced beliefs about need for enhanced guidance
 
 ### **Renaissance Engagement (1400-1700 CE)**
 - **Scientific Revolution:** Influenced key developments in mathematics, engineering, and natural philosophy
@@ -56,24 +56,24 @@
 ## 🏛️ **Organizational Structure**
 
 ### **Technocratic Directorate**
-- **Prime Director Thane Voss:** 287 years old, overall leader, former military engineer who embraced technological solutions
-- **Innovation Director Dr. Lydia Volkov:** 198 years old, research and development chief, quantum physics specialist
+- **Prime Director Thane Voss:** 287 years old, overall leader, former military engineer with advanced pathway development
+- **Innovation Director Dr. Lydia Volkov:** 198 years old, research and development chief, asteroid technology specialist
 - **Implementation Director James Park:** 156 years old, corporate operations manager, business and technology integration expert
 - **Assessment Director Dr. Sophie Laurent:** 201 years old, human development evaluator, anthropological technology specialist
-- **Infrastructure Director Commander Chen Wei:** 234 years old, large-scale systems coordinator, former Echo Circle defector
+- **Resource Director Commander Chen Wei:** 234 years old, asteroid material coordinator, former Echo Circle defector
 
 ### **Operational Divisions**
-- **Research Directorate:** Fundamental science and advanced technology development, 450 members
-- **Implementation Directorate:** Technology transfer and human integration programs, 380 members
-- **Assessment Directorate:** Human civilization monitoring and guidance evaluation, 290 members
-- **Infrastructure Directorate:** Large-scale systems and planetary technology management, 320 members
-- **Corporate Directorate:** Public-facing technology companies and business operations, 360 members
+- **Research Directorate:** ~1,800 members in fundamental science and advanced technology development
+- **Implementation Directorate:** ~1,200 members in technology transfer and human integration programs
+- **Assessment Directorate:** ~800 members in human civilization monitoring and guidance evaluation
+- **Resource Directorate:** ~900 members in asteroid material management and energy system coordination
+- **Corporate Directorate:** ~700 members in public-facing technology companies and business operations
 
 ### **Geographic Distribution**
-- **North American Division:** Silicon Valley headquarters, 680 members
-- **European Division:** CERN and Cambridge operations, 420 members
-- **Asian Division:** Tokyo and Seoul technology centers, 380 members
-- **Research Stations:** Antarctic, deep ocean, and orbital facilities, 320 members
+- **North American Division:** Silicon Valley headquarters, 2,100 members
+- **European Division:** CERN and Cambridge operations, 1,300 members
+- **Asian Division:** Tokyo and Seoul technology centers, 1,100 members
+- **Research Stations:** Antarctic, deep ocean, and orbital facilities, 900 members
 - **Coordination:** Quantum communication networks enabling real-time global collaboration
 
 ### **Human Integration Programs**
@@ -88,23 +88,23 @@
 ## 🎯 **Goals & Motivations**
 
 ### **Primary Objectives**
-1. **Technological Demonstration:** Prove Lumerian superiority through advanced technological achievements
+1. **Technological Demonstration:** Prove enhanced superiority through advanced technological achievements
 2. **Human Elevation:** Gradually raise human technological capability to acceptable cooperation levels
 3. **Civilization Advancement:** Guide both species toward post-scarcity technological civilization
 4. **Infrastructure Development:** Build planetary-scale technology systems for long-term sustainability
-5. **Supremacy Establishment:** Confirm Lumerian leadership role in human-Lumerian cooperation
+5. **Supremacy Establishment:** Confirm enhanced leadership role in human-enhanced cooperation
 
 ### **Strategic Methods**
 - **Technology Transfer:** Controlled introduction of advanced concepts through research collaboration
-- **Corporate Integration:** Legitimate businesses that develop and distribute Lumerian-inspired technology
+- **Corporate Integration:** Legitimate businesses that develop and distribute enhanced-inspired technology
 - **Educational Influence:** Technical schools and research institutions that promote engineering excellence
 - **Infrastructure Investment:** Large-scale projects that demonstrate capabilities while serving human needs
 - **Selective Disclosure:** Gradual revelation of capabilities to prove superiority and earn cooperation
 
 ### **Philosophical Foundation**
 - **Core Belief:** Technological superiority creates moral obligation to guide less advanced civilizations
-- **Human Perspective:** Humans have potential but require guidance to avoid destructive mistakes
-- **Technology Philosophy:** Advanced technology is the solution to all civilizational challenges
+- **Human Perspective:** Humans have potential but require enhanced guidance to avoid destructive mistakes
+- **Technology Philosophy:** Advanced asteroid-powered technology is the solution to all civilizational challenges
 - **Leadership Doctrine:** Superior beings must take responsibility for inferior ones' development
 - **Progress Ideology:** Technological advancement is the highest good and measure of civilizational success
 
@@ -120,14 +120,21 @@
 - **Funding Distribution:** 40% research and development, 25% infrastructure, 20% human collaboration, 15% operations
 
 ### **Technological Assets**
-- **Advanced Manufacturing:** Automated production systems decades ahead of human capability
-- **Energy Systems:** Fusion power, zero-point energy, and planetary-scale power distribution
+- **Advanced Manufacturing:** Automated production systems decades ahead of human capability enhanced by pathway interfaces
+- **Energy Systems:** Asteroid-powered fusion, zero-point energy, and planetary-scale power distribution
 - **Computing Technology:** Quantum computers, artificial intelligence, and neural interface systems
 - **Transportation Networks:** Advanced vehicles, teleportation systems, and space-capable craft
 - **Communication Systems:** Quantum-encrypted global networks and interplanetary communication
 
+### **Asteroid Material Access**
+- **Current Holdings:** ~15 tons powering technology demonstrations and corporate activities
+- **Primary Laboratories:** Advanced research facilities in Silicon Valley (6 tons), CERN (4 tons), MIT (3 tons)
+- **Development Projects:** Cutting-edge technology requiring significant material investment
+- **Corporate Infrastructure:** Material-powered systems in major technology companies
+- **Research Priority:** Development of alternative energy sources and efficiency improvements
+
 ### **Research Capabilities**
-- **Fundamental Science:** Advanced physics, chemistry, and engineering research facilities
+- **Fundamental Science:** Advanced physics, chemistry, and engineering research facilities enhanced by pathway abilities
 - **Applied Technology:** Rapid prototyping and testing of new technological concepts
 - **Human Studies:** Comprehensive analysis of human technological development and capacity
 - **Prediction Modeling:** Advanced simulation systems for technological and social development
@@ -136,8 +143,8 @@
 ### **Infrastructure Capabilities**
 - **Global Networks:** Transportation, communication, and energy systems spanning multiple continents
 - **Research Facilities:** Advanced laboratories, testing centers, and development installations
-- **Manufacturing Centers:** Automated production facilities capable of building Lumerian technology
-- **Educational Systems:** Technical schools and universities that train both humans and Lumerians
+- **Manufacturing Centers:** Automated production facilities capable of building enhanced technology
+- **Educational Systems:** Technical schools and universities that train both humans and enhanced individuals
 - **Corporate Operations:** Legitimate businesses with combined revenue exceeding most national economies
 
 ---
@@ -146,7 +153,8 @@
 
 ### **Prime Director Thane Voss - Faction Leader**
 - **Role:** Overall Conflux commander, primary decision maker and strategic coordinator
-- **Background:** 287 years old, former military engineer who embraced technological solutions after seeing warfare destruction
+- **Background:** 287 years old, former military engineer with advanced pathway development specialized in technology interface
+- **Enhancement Status:** Master-level pathway abilities focused on complex system coordination
 - **Personality:** Authoritative, brilliant, genuinely believes superior technology solves all problems
 - **Skills:** Strategic planning, advanced engineering, military tactics adapted for technological supremacy
 - **Character Arc:** Evolves from authoritarian leader to cooperative ally as crisis demonstrates limits of dominance
@@ -154,15 +162,17 @@
 
 ### **Dr. Lydia Volkov - Research Director**
 - **Role:** Chief scientist and technology development coordinator
-- **Background:** 198 years old, quantum physics prodigy who developed modern Lumerian computing systems
+- **Background:** 198 years old, quantum physics prodigy who developed modern enhanced computing systems
+- **Enhancement Status:** Advanced pathway development specialized in asteroid technology research
 - **Personality:** Intellectual perfectionist, fascinated by technical challenges, somewhat arrogant about human limitations
-- **Skills:** Advanced physics, quantum engineering, artificial intelligence development
+- **Skills:** Advanced physics, asteroid energy systems, artificial intelligence development
 - **Character Arc:** Becomes crucial technical advisor, learns to respect human ingenuity through cooperation
 - **Relationship with Marcus:** Professional respect for his interface abilities, potential mentor figure
 
 ### **James Park - Implementation Director**
 - **Role:** Corporate operations manager and human integration specialist
 - **Background:** 156 years old, youngest Directorate member, specializes in business and technology integration
+- **Enhancement Status:** Moderate pathway development focused on human relations and strategic planning
 - **Personality:** Pragmatic, culturally adaptable, believes in earning cooperation through demonstrated value
 - **Skills:** Business development, technology transfer, human psychology and motivation
 - **Character Arc:** Bridge figure who facilitates cooperation between factions and species
@@ -171,9 +181,10 @@
 ### **Dr. Sophie Laurent - Assessment Director**
 - **Role:** Human development evaluator and anthropological specialist
 - **Background:** 201 years old, former Echo Circle member who joined Conflux after disagreeing with slow progress approach
+- **Enhancement Status:** Advanced pathway development with specialization in social analysis
 - **Personality:** Analytical, patient, genuinely interested in human potential and development
 - **Skills:** Anthropology, psychology, technological assessment, cultural analysis
-- **Character Arc:** Provides crucial insights into human-Lumerian cooperation possibilities
+- **Character Arc:** Provides crucial insights into human-enhanced cooperation possibilities
 - **Relationship with Marcus:** Recognizes his unique position, becomes advocate for equal partnership approach
 
 ---
@@ -183,14 +194,14 @@
 ### **Early Phase (Chapters 1-100): Impressive Demonstration**
 - **Capability Display:** Dramatic technology demonstrations designed to awe and recruit Marcus
 - **Corporate Contact:** Approach through legitimate technology companies and research institutions
-- **Superiority Proof:** Show advanced capabilities to establish Lumerian technological dominance
-- **Recruitment Attempt:** Offer Marcus access to advanced technology and resources in exchange for cooperation
+- **Superiority Proof:** Show advanced capabilities to establish enhanced technological dominance
+- **Recruitment Attempt:** Offer Marcus access to advanced technology and asteroid material in exchange for cooperation
 - **Escalation Response:** Deploy more impressive technology when initial recruitment fails
 
 ### **Middle Phase (Chapters 101-300): Technological Competition**
 - **Resource Provision:** Provide advanced equipment and research access to compete with other factions
 - **Infrastructure Access:** Grant access to hidden research facilities and advanced manufacturing capabilities
-- **Technology Demonstration:** Reveal spectacular ancient technology to prove Lumerian engineering superiority
+- **Technology Demonstration:** Reveal spectacular asteroid-powered technology to prove enhanced engineering superiority
 - **Cooperation Incentives:** Offer technological advancement opportunities to Marcus's allies
 - **Strategic Alliance:** Form working relationship based on mutual technological interests
 
@@ -198,7 +209,8 @@
 - **System Integration:** Conflux technology and infrastructure crucial for climate system operation
 - **Manufacturing Support:** Advanced production capabilities needed for large-scale planetary repairs
 - **Coordination Networks:** Communication and transportation systems essential for global coordination
-- **Technical Expertise:** Engineering knowledge required for integrating human and Lumerian systems
+- **Technical Expertise:** Engineering knowledge required for integrating human and enhanced systems
+- **Resource Contribution:** Asteroid material reserves essential for planetary emergency response
 - **Cooperative Leadership:** Thane Voss becomes key partner in coordinating multi-faction response
 
 ### **Character Development Function**
@@ -213,22 +225,24 @@
 ## ⚔️ **Faction Conflicts & Relationships**
 
 ### **vs Silent Veil**
-- **Core Disagreement:** Demonstration vs concealment of Lumerian capabilities
+- **Core Disagreement:** Demonstration vs concealment of enhanced capabilities and technology
 - **Historical Conflict:** Conflux belief in superiority conflicts with Silent Veil's secrecy doctrine
 - **Current Tensions:** Technology demonstrations threaten exposure, compromise Silent Veil operations
+- **Resource Competition:** Competition over asteroid material allocation between advancement and security
 - **Combat Approach:** Technological superiority, cyber warfare, infrastructure denial, demonstration of force
-- **Negotiation Potential:** Moderate - shared concern for Lumerian welfare could enable cooperation
+- **Negotiation Potential:** Moderate - shared concern for enhanced welfare could enable cooperation
 
 ### **vs Echo Circle**
-- **Core Disagreement:** Guidance vs partnership in human-Lumerian relations
+- **Core Disagreement:** Guidance vs partnership in human-enhanced relations
 - **Historical Conflict:** Supremacist philosophy vs equality principles create fundamental tension
 - **Current Tensions:** Conflux demonstrations of superiority undermine Echo Circle's gradual integration approach
+- **Resource Competition:** Competition over environmental vs technological priorities for asteroid material
 - **Combat Approach:** Technology competition, resource competition, recruitment of shared assets
 - **Negotiation Potential:** High - shared goals of planetary welfare and technological advancement
 
 ### **Internal Challenges**
-- **Superiority Complex:** Belief in Lumerian supremacy creates resistance to true cooperation
-- **Resource Allocation:** Massive infrastructure projects require enormous investment and coordination
+- **Superiority Complex:** Belief in enhanced supremacy creates resistance to true cooperation
+- **Resource Allocation:** Massive infrastructure projects require enormous asteroid material investment
 - **Human Integration:** Debates over how much advancement humans can handle safely
 - **Technology Security:** Balancing demonstration with preventing human acquisition of dangerous capabilities
 - **Generational Divide:** Younger members more willing to accept human equality
@@ -252,10 +266,10 @@
 - **Achievement Recognition:** Honor systems based on technological contribution and innovation
 
 ### **Technology Integration**
-- **Enhancement Systems:** Neural interfaces that increase cognitive capacity and technical understanding
+- **Enhancement Systems:** Pathway interfaces that increase cognitive capacity and technical understanding
 - **Collaborative Networks:** Direct mind-to-mind communication for complex engineering projects
 - **Reality Modeling:** Advanced simulation systems for testing technological concepts
-- **Rapid Prototyping:** Instant manufacturing capabilities for testing new designs
+- **Rapid Prototyping:** Instant manufacturing capabilities for testing new designs using asteroid-powered systems
 - **Knowledge Integration:** Direct download of technical knowledge and skills
 
 ---
@@ -263,22 +277,23 @@
 ## 🎯 **Victory Conditions**
 
 ### **Ideal Outcome**
-- **Technological Leadership:** Conflux guides technological development for both species
+- **Technological Leadership:** Conflux guides technological development for both species using asteroid-powered systems
 - **Infrastructure Control:** Advanced systems under Conflux management ensure planetary welfare
 - **Human Advancement:** Humans elevated to technological levels enabling meaningful cooperation
-- **Superiority Recognition:** Both species acknowledge Lumerian technological leadership
+- **Superiority Recognition:** Both species acknowledge enhanced technological leadership
 - **Progress Acceleration:** Rapid advancement toward post-scarcity technological civilization
 
 ### **Acceptable Compromise**
 - **Technical Partnership:** Equal collaboration in developing and managing planetary systems
-- **Shared Infrastructure:** Joint human-Lumerian management of advanced technology
+- **Shared Infrastructure:** Joint human-enhanced management of advanced technology
 - **Graduated Integration:** Humans gradually elevated to full technological partnership
-- **Capability Recognition:** Human acknowledgment of Lumerian technical advantages
+- **Capability Recognition:** Human acknowledgment of enhanced technical advantages
 - **Cooperative Development:** Joint research and development programs advancing both species
 
 ### **Failure Scenarios**
-- **Technology Rejection:** Humans refuse Lumerian technological guidance
+- **Technology Rejection:** Humans refuse enhanced technological guidance
 - **Infrastructure Destruction:** Advanced systems destroyed by faction conflict or human resistance
+- **Material Depletion:** Asteroid reserves exhausted before technological solutions can be implemented
 - **Stagnation:** Unable to advance either species beyond current technological limitations
 - **Equality Imposition:** Forced to accept human equality without superiority recognition
 - **Isolation:** Withdrawal from human contact due to cooperation failures
@@ -288,8 +303,8 @@
 ## 🔬 **Technological Specializations**
 
 ### **Energy Systems**
-- **Fusion Technology:** Clean, unlimited energy sources for planetary-scale applications
-- **Zero-Point Energy:** Exotic energy extraction from quantum vacuum fluctuations
+- **Asteroid Fusion:** Clean, unlimited energy sources for planetary-scale applications using asteroid material
+- **Zero-Point Energy:** Exotic energy extraction from quantum vacuum fluctuations enhanced by pathways
 - **Planetary Distribution:** Global energy networks enabling worldwide technological advancement
 - **Storage Systems:** Advanced energy storage for managing variable renewable sources
 - **Efficiency Optimization:** Technology that dramatically reduces energy waste and loss
@@ -297,12 +312,12 @@
 ### **Computing and Intelligence**
 - **Quantum Computers:** Computing systems exceeding any human technology by orders of magnitude
 - **Artificial Intelligence:** Advanced AI systems for complex problem solving and prediction
-- **Neural Interfaces:** Direct brain-computer interaction enabling enhanced human capabilities
+- **Pathway Interfaces:** Direct brain-computer interaction enabling enhanced human capabilities
 - **Global Networks:** Communication systems enabling real-time planetary coordination
 - **Simulation Technology:** Reality modeling systems for testing concepts before implementation
 
 ### **Manufacturing and Materials**
-- **Molecular Assembly:** Precise construction of materials and devices at atomic level
+- **Molecular Assembly:** Precise construction of materials and devices at atomic level using asteroid-powered tools
 - **Smart Materials:** Adaptive substances that change properties based on environmental conditions
 - **Automated Production:** Manufacturing systems requiring minimal human oversight or intervention
 - **Recycling Technology:** Complete material recovery and reprocessing capabilities
@@ -323,30 +338,31 @@
 - **Public Role:** Advanced computing and artificial intelligence research
 - **Real Function:** Human integration point for advanced computational technology
 - **Revenue:** $67 billion annually from legitimate technology sales
-- **Employees:** 45,000 humans, 89 Lumerians in leadership positions
-- **Specialization:** Quantum computing, AI development, neural interface research
+- **Employees:** 45,000 humans, 189 enhanced individuals in leadership positions
+- **Specialization:** Quantum computing, AI development, pathway interface research
 
 ### **Prometheus Energy Corporation**
 - **Public Role:** Revolutionary clean energy technology development
-- **Real Function:** Introduction of advanced energy systems to human civilization
+- **Real Function:** Introduction of asteroid-powered energy systems to human civilization
 - **Revenue:** $134 billion annually from energy technology patents and production
-- **Employees:** 78,000 humans, 156 Lumerians in technical leadership
-- **Specialization:** Fusion power, energy storage, planetary distribution networks
+- **Employees:** 78,000 humans, 256 enhanced individuals in technical leadership
+- **Specialization:** Advanced fusion power, energy storage, planetary distribution networks
 
 ### **Atlas Manufacturing**
 - **Public Role:** Advanced materials and automated manufacturing systems
-- **Real Function:** Production of technology requiring Lumerian capabilities
+- **Real Function:** Production of technology requiring enhanced capabilities
 - **Revenue:** $89 billion annually from materials technology and manufacturing contracts
-- **Employees:** 123,000 humans, 234 Lumerians in engineering positions
+- **Employees:** 123,000 humans, 334 enhanced individuals in engineering positions
 - **Specialization:** Smart materials, molecular assembly, automated production
 
 ### **Hermes Communications**
 - **Public Role:** Next-generation communication and networking technology
 - **Real Function:** Infrastructure for global coordination and information management
 - **Revenue:** $45 billion annually from communication technology and services
-- **Employees:** 34,000 humans, 67 Lumerians in system design roles
+- **Employees:** 34,000 humans, 167 enhanced individuals in system design roles
 - **Specialization:** Quantum communication, global networks, information security
 
 ---
 
-*Faction Status: Technological supremacists whose infrastructure and expertise are essential for planetary-scale solutions*
+*Faction Status: Technological supremacists whose infrastructure and expertise are essential for planetary-scale solutions*  
+*Cross-references: Asteroid Material & Energy Systems, Ancient Sites & Hidden Technology*
