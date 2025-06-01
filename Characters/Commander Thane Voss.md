@@ -84,3 +84,114 @@ The question becomes: does honorable execution of dishonorable goals make someon
 - "I do not hate your species, Mr. Reeves. I pity them. They have created weapons that can destroy worlds but lack the wisdom to preserve the one they inhabit."
 - "Honor is not about what you fight for - it is about how you conduct the fight."
 - "Every human soldier I have lost died because of inferior human decision-making. I will not allow that to happen to Lumerian forces under my command."
+# Voice Sheet
+## 🗣️ **Voice Sheet - ENHANCED FOR AI**
+
+### **Core Voice DNA**
+- **Military Precision:** Never uses contractions unless extremely relaxed ("I do not" not "I don't")
+- **Philosophical Framework:** Explains actions through duty, honor, and evolutionary imperative
+- **German Formality:** Slight accent on certain words (w/v sounds), extremely organized thought patterns
+- **Respectful Opposition:** Treats enemies with appropriate military courtesy even while fighting them
+- **Ideological Certainty:** Never doubts righteousness of Lumerian superiority, speaks with absolute conviction
+
+### **Speech Patterns**
+- **Precise Military Diction:** Each word chosen deliberately, no casual speech patterns
+- **Vocabulary:** "Strategic imperative" not "plan," "evolutionary advantage" not "ability," "operational parameters" not "rules"
+- **Sentence Structure:** Formal, complete sentences with logical progression
+- **Authority Markers:** Uses "Understood?" to check comprehension, stands at attention for important points
+- **Honor Language:** References duty, necessity, proper conduct, respect for worthy opponents
+
+### **Emotional Expression**
+- **Calm Professional:** Maintains composure even when angry or frustrated
+- **Quiet Intensity:** When truly moved, voice becomes quieter and more personal rather than louder
+- **Respectful Defiance:** Can disagree strongly while maintaining military courtesy
+- **Philosophical Passion:** Most animated when discussing Lumerian destiny and human limitations
+
+### **Example Dialogue Patterns**
+
+**Standard Operational:**
+```
+"Mr. Reeves, you have tactical abilities that could reshape this conflict. I respect your convictions, but understand - your species is failing. We offer structure, purpose, survival. The question is whether you will accept guidance or force us to provide it."
+```
+
+**Under Pressure:**
+```
+"The tactical situation has deteriorated beyond acceptable parameters. I do not retreat from inferior forces, but strategic withdrawal serves the larger objective. Understood?"
+```
+
+**Philosophical Discussion:**
+```
+"Honor is not about what you fight for - it is about how you conduct the fight. Your species possesses courage but lacks wisdom. This is why guidance becomes necessary."
+```
+
+**Respectful Opposition:**
+```
+"Dr. Delacroix, your archaeological expertise is formidable. Under different circumstances, you would make an excellent Conflux operative. As matters stand, I regret that we must be enemies."
+```
+
+### **Dialogue Writing Constraints for AI**
+
+**DO:**
+- Maintain formal military language structure
+- Include philosophical justification for actions
+- Show respect for worthy opponents
+- Use "Understood?" after giving important information
+- Reference duty, honor, necessity, proper conduct
+- Include slight German accent markers on w/v sounds
+
+**DON'T:**
+- Use contractions in formal speech
+- Have him lose military composure
+- Make him cruel or sadistic - he's honorable
+- Break his philosophical framework even under stress
+- Have him show personal hatred - ideology only
+
+### **Internal Monologue Style**
+```
+Tactical assessment: Marcus Reeves demonstrates enhanced pattern recognition and strategic thinking. Potential asset if properly guided. Current emotional attachments to inferior humans represent operational liability.
+
+Strategic options: (1) Direct recruitment through demonstration of Lumerian superiority, (2) Elimination to prevent faction disruption, (3) Surveillance pending faction consolidation.
+
+Honor considerations: Target has not committed crimes against Lumerian interests. Direct action requires clear operational justification. Proper military conduct demands respect for worthy opponent.
+
+Conclusion: Attempt honorable recruitment before considering elimination protocols.
+```
+
+### **Character Voice Evolution**
+
+**Early Story (Confident Supremacist):**
+- Absolutely certain of Lumerian superiority
+- Explains ideology with patient conviction
+- Treats humans as misguided children
+
+**Mid Story (Challenged Beliefs):**
+- Still maintains ideology but shows slight uncertainty
+- Longer pauses before philosophical explanations
+- Begins acknowledging human capabilities more explicitly
+
+**Late Story (Crisis of Faith):**
+- Voice becomes more thoughtful, less certain
+- Military training conflicts with ideological doubts
+- Honor code increasingly important as beliefs waver
+
+### **Relationship-Specific Voice Modifications**
+
+**With Marcus (Respected Enemy):**
+```
+"You fight with honor despite your species' limitations. This gives me hope that cooperation might be possible... once proper hierarchy is established."
+```
+
+**With Subordinates (Military Authority):**
+```
+"Captain Al-Rashid, operational parameters have changed. Adjust tactical deployment accordingly. Maintain honor protocols regardless of escalation. Understood?"
+```
+
+**With Viktor (Professional Distaste):**
+```
+"Your methods achieve results, Kazansky, but honor demands we consider the cost. Effective tactics that sacrifice integrity serve no worthy cause."
+```
+
+**With Elena (Ideological Opposition):**
+```
+"Professor Vasquez, your faction's weakness enables humanity's continued degradation. Compassion without strength creates chaos, not harmony."
+```
