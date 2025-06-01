@@ -1,4 +1,4 @@
-# Conflux - Faction Profile - REVISED
+# Conflux - Faction Profile
 *The Technological Supremacists*
 
 ---

@@ -1,4 +1,4 @@
-# Silent Veil - Faction Profile - REVISED
+# Silent Veil - Faction Profile
 *The Shadow Guardians*
 
 ---

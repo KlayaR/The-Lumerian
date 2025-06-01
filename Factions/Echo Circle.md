@@ -1,4 +1,4 @@
-# Echo Circle - Faction Profile - REVISED
+# Echo Circle - Faction Profile
 *The Environmental Guardians*
 
 ---
