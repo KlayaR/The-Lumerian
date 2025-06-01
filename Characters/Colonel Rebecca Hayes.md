@@ -1,109 +1,107 @@
-# Maria Santos
-*The Guardian Network*
+# Colonel Rebecca Hayes
+*The Awakening Soldier*
 
 ## Basic Information
-- **Age:** 41
-- **Nationality:** Peruvian (Quechua heritage)
-- **Profession:** Archaeological Site Coordinator & Indigenous Rights Advocate
-- **Current Status:** Leading global network of ancient site guardians
-- **Physical Description:** Compact, athletic build from mountain living. Dark hair woven with traditional patterns, weathered hands, intense brown eyes. Wears mix of practical outdoor gear and traditional textiles.
+- **Age:** 44
+- **Nationality:** American
+- **Profession:** U.S. Army Intelligence Officer, Pentagon liaison
+- **Current Status:** Suppressed Lumerian heritage beginning to manifest
+- **Physical Description:** 5'8" with athletic military bearing. Auburn hair kept in regulation style, sharp green eyes, numerous small scars from deployments. Professional military attire, always impeccably pressed.
 
 ## Background
-Born in a village near Sacsayhuamán, Maria grew up hearing stories about the "star-touched ones" who built the ancient sites. Her grandmother was a site guardian - part of an unbroken chain stretching back centuries, protecting sacred locations from exploitation.
+Third-generation military family from Texas. Rebecca excelled in intelligence analysis, earning rapid promotions through Army Intelligence. She's served in Afghanistan, Iraq, and various classified operations, building a reputation for unshakeable judgment under pressure.
 
-Maria earned a degree in archaeology from Universidad Nacional Mayor de San Marcos, using academic credentials to gain official access to sites her family had protected informally for generations. She discovered that similar guardian traditions exist worldwide, all protecting locations with unusual properties.
+What she doesn't know: her grandmother was a Lumerian refugee who fled the faction wars in the 1940s. Her family's "intuitive" military service actually stems from suppressed genetic abilities. Rebecca's uncanny talent for predicting enemy movements and reading situations comes from dormant enhanced cognition.
 
-What she's learned: the ancient sites form a global network of Lumerian installations designed to monitor and stabilize planetary systems. The guardians aren't just protecting archaeological treasures - they're maintaining a climate control system that keeps Earth habitable.
+Recent exposure to Lumerian technology during a classified investigation has begun awakening her abilities. She's experiencing "hunches" that prove unnaturally accurate, sensing emotions from targets, and occasionally interfacing with electronic systems through touch.
 
 ## Personality
-**Surface:** Passionate advocate for indigenous rights and cultural preservation. Articulate speaker who bridges traditional wisdom and modern activism. Appears dedicated to historical preservation.
+**Surface:** Professional military officer with unwavering loyalty to country and code. Direct communicator who values efficiency and results. Appears to be the perfect soldier.
 
-**Deeper:** Brilliant strategic thinker coordinating a secret global network. Balances respect for tradition with pragmatic adaptation to modern threats. Increasingly aware that cultural preservation and planetary survival are interconnected.
+**Deeper:** Growing awareness that something fundamental about herself is changing. Struggling to reconcile unexplainable intuitions with rational military training. Increasingly questioning orders that feel wrong on a visceral level.
 
-**Core:** A protector who sees herself as part of an ancient covenant between humanity and the Earth. Her activism isn't just political - it's spiritual and practical. She serves something larger than any nation or faction.
+**Core:** A protector who serves something larger than herself. As her heritage awakens, she must redefine what she's protecting and from whom. Her military honor remains constant even as her worldview expands.
 
 ## Voice Sheet
-- **Speech Patterns:** Speaks with musical Spanish accent, occasionally using Quechua phrases. Formal when addressing groups, intimate when sharing sacred knowledge.
-- **Vocabulary:** Blends indigenous concepts with modern activism language. "Sacred sites" and "ancestral wisdom" mixed with "global networks" and "strategic coordination."
-- **Verbal Tics:** Touches traditional jewelry when making important points. Says "Our ancestors knew..." before sharing crucial insights.
-- **Emotional Range:** Fierce when protecting her people/sites, gentle when teaching. When angry, her voice carries the authority of generations.
-- **Example:** "Mr. Reeves, our ancestors knew the star-touched ones would return when the earth-blood grew hot. These sites aren't monuments - they're instruments. And something is trying to silence their song."
+- **Speech Patterns:** Crisp military diction with slight Texas drawl. Uses precise language and avoids unnecessary words. Speaks with confidence even when uncertain.
+- **Vocabulary:** Military terminology mixed with intelligence jargon. Refers to "assets," "objectives," and "threat assessments" even in casual conversation.
+- **Verbal Tics:** Stands at attention when making important points. Says "Roger that" to acknowledge understanding, even in civilian contexts.
+- **Emotional Range:** Maintains professional composure but allows genuine warmth with trusted allies. When angry, her voice becomes dangerously quiet.
+- **Example:** "Sir, I've been tracking these anomalies for three months. Official reports don't match field evidence. Either our intelligence is compromised, or we're dealing with capabilities beyond current threat assessments. Roger that - something doesn't add up."
 
 ## Strengths
-- **Global Network:** Connections with guardian traditions on every continent
-- **Site Knowledge:** Deep understanding of ancient Lumerian installations and their purposes
-- **Cultural Authority:** Respected voice in indigenous communities worldwide
-- **Strategic Thinking:** Excellent at coordinating distributed resistance movements
-- **Spiritual Grounding:** Strong sense of purpose provides resilience under pressure
+- **Intelligence Analysis:** Expert at pattern recognition and threat assessment
+- **Military Training:** Combat skills, tactical thinking, and leadership experience
+- **Institutional Access:** High-level security clearance and Pentagon connections
+- **Awakening Abilities:** Enhanced intuition and emerging technological interface
+- **Moral Compass:** Strong ethical foundation despite institutional pressures
 
 ## Flaws
-- **Resource Limitations:** Guardian network operates on minimal funding and volunteer labor
-- **Cultural Barriers:** Traditional approaches sometimes clash with modern urgency
-- **Trust Issues:** Centuries of exploitation make her suspicious of outsiders' motives
-- **Scale Mismatch:** Local focus vs. global threats requiring massive coordination
-- **Competing Loyalties:** Torn between protecting her people and serving planetary needs
+- **Rigid Thinking:** Military training makes her resistant to paradigm shifts
+- **Loyalty Conflicts:** Torn between duty to country and growing awareness of hidden truths
+- **Suppressed Heritage:** Genetic abilities manifest unpredictably, causing confusion
+- **Isolation:** Professional success has cost her personal relationships
+- **Control Issues:** Uncomfortable with situations she can't analyze and direct
 
 ## Character Arc
-**Beginning:** Dedicated guardian discovering the true scope of the sites' importance
-**Catalyst:** Faction activities threaten guardian sites worldwide, forcing her to act globally
-**Growth:** Must unite diverse guardian traditions while maintaining their cultural integrity
-**Crisis:** Choice between cultural purity and adaptation necessary for survival
-**Resolution:** Either succeeds in creating unified global resistance or sacrifices herself protecting the network
+**Beginning:** Dedicated military officer investigating unusual phenomena
+**Catalyst:** Awakening abilities force her to question everything she believes
+**Growth:** Must choose between institutional loyalty and larger truth
+**Crisis:** Discovery of heritage puts her at center of faction conflicts
+**Resolution:** Either becomes bridge between military and Lumerian world or tragic casualty of divided loyalties
 
 ## Relationships
 
-**Marcus Reeves:** Initially suspicious of another outsider claiming connection to ancient mysteries. Develops respect as she recognizes his genuine Lumerian heritage.
+**General Patricia Hayes:** Her commanding officer and mentor figure. Complex relationship as Rebecca begins questioning military objectives.
 
-**Indigenous Guardian Network:** Complex relationships with guardians from different cultures, each with their own traditions and priorities.
+**Marcus Reeves:** Initially investigates him as potential security threat. Develops respect as she recognizes their shared heritage and struggles.
 
-**Academic Archaeologists:** Wary partnerships with researchers who want to study what she's sworn to protect.
+**Pentagon Intelligence Community:** Colleagues who trust her completely, unaware of her changing nature. Her transformation creates professional isolation.
 
-**Government Authorities:** Ongoing conflicts with officials who see cultural sites as obstacles to development.
+**Faction Operatives:** Multiple factions attempt to recruit her once they discover her heritage and access. She becomes valuable asset and dangerous liability.
 
-**Isabella Morales:** Her cousin and trusted lieutenant in the Peruvian guardian network.
+**Sarah Martinez (Ex-partner):** Former romantic relationship ended due to Rebecca's military commitments and emotional walls.
 
 ## Key Relationship Dynamics
-- **The Network Leader:** Coordinates diverse groups with common purpose but different methods
-- **The Cultural Bridge:** Connects ancient wisdom with modern environmental activism
-- **The Protector:** Defends sites that others want to exploit or control
-- **The Teacher:** Shares sacred knowledge with those worthy of trust
+- **The Insider:** Perfectly positioned to expose government faction involvement
+- **The Awakening:** Parallel journey to Marcus but from institutional perspective
+- **The Bridge:** Could connect military resources with Lumerian capabilities
+- **The Target:** Valuable enough that factions will kill to recruit or eliminate her
 
 ## Story Function
-Maria represents the connection between ancient Lumerian civilization and modern indigenous wisdom. Her guardian network provides global infrastructure for resistance while her character explores themes of cultural preservation vs. adaptation.
+Rebecca represents the military-industrial complex's intersection with the shadow war. Her awakening parallels Marcus's journey while providing access to government resources and perspectives. She embodies themes of duty vs. truth and institutional loyalty vs. personal growth.
 
-She's the keeper of crucial knowledge about Lumerian installations while embodying the moral authority of oppressed peoples protecting sacred heritage.
+Her character explores what happens when perfect soldiers discover they're not entirely human, and whether military honor can survive paradigm-shifting revelations.
 
 ## The Gray Morality
-Maria's protection of sacred sites sometimes conflicts with legitimate scientific research that could help solve climate problems. Her network uses secrecy and deception to prevent exploitation, but this also limits potentially beneficial cooperation.
+Rebecca has served her country faithfully for two decades, but that service included operations that may have unknowingly targeted innocent Lumerians. She's followed orders that seemed righteous but may have been faction-influenced.
 
-Some guardian traditions include practices that would be considered illegal or unethical by modern standards. Maria must balance respect for ancestral ways with contemporary moral frameworks.
+Her loyalty to the military is genuine and admirable, but the institution she serves has been infiltrated by Silent Veil operatives. She's been a tool of oppression without knowing it, while believing she was protecting freedom.
 
-The question becomes: does cultural sovereignty justify restricting access to knowledge that could save the planet? And can traditional wisdom adapt to unprecedented global threats without losing its essential character?
+The question becomes: when institutional loyalty conflicts with moral awakening, which takes precedence? And can someone remain a good soldier while serving bad masters?
 
 ## Key Internal Conflicts
-- **Tradition vs. Innovation:** Ancient ways vs. modern adaptation requirements
-- **Local vs. Global:** Protecting her people vs. serving planetary needs
-- **Secrecy vs. Cooperation:** Guardian oaths vs. need for outside allies
-- **Purity vs. Pragmatism:** Cultural integrity vs. tactical necessities
+- **Country vs. Species:** Military loyalty vs. Lumerian heritage
+- **Orders vs. Intuition:** Following commands vs. trusting awakening abilities
+- **Known vs. Unknown:** Comfortable military world vs. hidden supernatural reality
+- **Protection vs. Control:** Serving freedom vs. enabling oppression
 
-## Guardian Network Structure
-Maria coordinates guardians across:
-- **South America:** Incan and pre-Incan sites (Sacsayhuamán, Machu Picchu, etc.)
-- **North America:** Native American sacred locations (Mesa Verde, Cahokia, etc.)
-- **Europe:** Megalithic sites (Stonehenge, Newgrange, etc.)
-- **Asia:** Tibetan and Chinese mountain sites
-- **Africa:** Ethiopian and Egyptian installations
-- **Australia:** Aboriginal sacred sites
+## Military Background
+Rebecca's service record includes:
+- **Intelligence Operations:** Counter-terrorism analysis in Middle East
+- **Classified Projects:** Investigation of "anomalous" phenomena (Lumerian activities)
+- **Leadership Roles:** Commanded mixed units in high-stress environments
+- **Commendations:** Multiple decorations for exceptional service under fire
 
-## Sacred Knowledge
-The guardians protect understanding of:
-- **Site Functions:** How ancient installations monitor and influence climate
-- **Activation Methods:** Traditional rituals that interface with Lumerian technology
-- **Network Connections:** How sites communicate across continental distances
-- **Warning Signs:** Indicators that planetary systems are failing
-- **Emergency Protocols:** Last-resort measures for climate stabilization
+## Awakening Manifestations
+Her Lumerian abilities emerge gradually:
+- **Enhanced Intuition:** Predicting enemy actions with impossible accuracy
+- **Emotional Sensing:** Reading true intentions during interrogations
+- **Technology Interface:** Unconsciously hacking systems through touch
+- **Tactical Prescience:** Knowing optimal strategies without conscious analysis
+- **Stress Responses:** Abilities spike during combat or crisis situations
 
 ## Story Impact
-Maria's network provides the infrastructure for global resistance to faction control. Her knowledge of site functions becomes crucial for understanding and potentially repairing planetary climate systems.
+Rebecca's transformation from loyal soldier to awakened Lumerian creates a crisis point for government-faction relations. Her choice of allegiances determines whether the military becomes ally or enemy in the final conflict.
 
-Her character forces examination of whose knowledge counts - academic credentials vs. inherited wisdom, written records vs. oral traditions, scientific analysis vs. spiritual understanding. She represents the voice of those who were here first and never forgot their responsibilities.
+Her institutional knowledge and access make her invaluable to any faction, while her emerging abilities make her a target for elimination. She's the character who forces the shadow war into daylight.
