@@ -14,6 +14,11 @@
 
 ---
 
+## 🎭 **Character Overview**
+Marcus is a brilliant analytical mind whose life gets turned upside down when ancient technology awakens his dormant Lumerian heritage. Raised as an orphan after his parents' "accidental" death, he has developed into a fiercely independent systems analyst who approaches everything—including emotions—through logical frameworks. When asteroid material triggers his pathway enhancement abilities, his already formidable pattern recognition becomes superhuman, allowing him to interface with technology that could reshape the planet. Reserved, methodical, and deeply suspicious of institutions, Marcus must learn to balance his enhanced analytical capabilities with human cooperation while uncovering the truth about his parents and his own extraordinary heritage.
+
+---
+
 ## 👤 **Physical Appearance**
 - **Height:** 6'1" (185 cm)
 - **Build:** Lean but athletic, runner's physique

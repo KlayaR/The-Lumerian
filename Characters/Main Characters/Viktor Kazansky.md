@@ -14,6 +14,11 @@
 
 ---
 
+## 🎭 **Character Overview**
+Viktor is a deadly contradiction: a masterful predator haunted by suppressed conscience. For twenty-five years, he has served as Silent Veil's most effective operative, convincing himself that eliminating Lumerian exposure threats protects both species from catastrophic war. His tactical brilliance and enhanced abilities make him nearly unstoppable, but the memory of orphaning three-year-old Marcus Reeves has created a psychological fracture in his carefully constructed rationalization. Cold, methodical, and utterly focused on his missions, Viktor represents what happens when someone transforms guilt into purpose—and what occurs when that purpose is finally questioned.
+
+---
+
 ## 👤 **Physical Appearance**
 - **Height:** 6'1" (185 cm)
 - **Build:** Lean but powerfully built, predatory grace from combat training

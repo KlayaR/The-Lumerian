@@ -15,6 +15,11 @@
 
 ---
 
+## 🎭 **Character Overview**
+Aria is a brilliant acoustic archaeologist whose rare combination of perfect pitch, engineering expertise, and fearless intellectual curiosity makes her the only person capable of unlocking ancient Lumerian technology. Academically ostracized for pursuing "impossible" theories about sound-responsive architecture, she has followed acoustic anomalies from European sites to Seattle, where her path intersects with Marcus's electromagnetic discoveries. Professional, direct, and emotionally intelligent, Aria serves as Marcus's intellectual equal and essential partner—her acoustic expertise is literally required to safely operate the ancient climate systems. French-born with a scientist's precision and an explorer's courage, she represents the perfect balance of methodical research and adaptive problem-solving that the crisis demands.
+
+---
+
 ## 👤 **Physical Appearance**
 - **Height:** 5'7" (170 cm)
 - **Build:** Lean and athletic from years of fieldwork, climber's graceful strength
