@@ -3,88 +3,94 @@
 ## 📋 Basic Information
 **Name:** Catherine Anne Reeves
 **Nickname:** "Aunt Catherine" to Marcus; "Ms. Catherine" to neighborhood
-**Short global description of the character (around 75 words):** A 68-year-old retired elementary school principal who raised Marcus from age 3 after his parents' death, serving as his surrogate mother and family anchor. Warm, perceptive educator with forty years' experience understanding people, she recognizes when Marcus is hiding something dangerous despite having no knowledge of Lumerians. Never believed official accident story about Jonathan and Sarah's death. Sharp teacher's instincts make her both emotional support and potential vulnerability for faction manipulation.
-**Age:** 68
-**Nationality:** American
-**Occupation:** Retired Elementary School Principal
-**Story Role:** Background Character (Family Anchor)
+**Short global description of the character (around 75 words):** A 45-year-old Lumerian who has spent decades hiding her true nature and protecting Marcus from those who would exploit his abilities. Jonathan's younger sister who made the ultimate sacrifice—suppressing her own powers and living as a normal human to keep Marcus safe. Sharp, protective, and deeply knowledgeable about Lumerian history, she's been preparing for the day when Marcus would need to know the truth about his heritage and the dangers that come with it.
+**Age:** 45
+**Nationality:** American (Lumerian heritage)
+**Occupation:** Elementary School Principal (Active Career)
+**Story Role:** Mentor/Protector (Hidden Lumerian Guide)
 
 ## ⚡ Abilities
-- **Child Psychology Expertise:** Decades of understanding how people think, behave, and hide problems
-- **Community Networks:** Extensive connections throughout Seattle from forty-year teaching career
-- **Crisis Management:** Professional experience handling emergencies and difficult family situations
-- **Emotional Support:** Natural ability to provide comfort, guidance, and unconditional love
-- **Intuitive Intelligence:** Enhanced ability to read people and recognize when something is wrong
-- **Practical Wisdom:** Common sense and life experience provide reliable judgment for complex situations
-- **Protective Instincts:** Fierce maternal drive to protect Marcus from danger, even unknown threats
-- **Pattern Recognition:** Teacher's training helps identify behavioral changes and underlying problems
+### Suppressed Lumerian Powers:
+- **Emotional Resonance (Dormant):** Natural ability to sense and influence emotions, deliberately suppressed for decades
+- **Memory Weaving (Hidden):** Can plant, alter, or shield memories—used sparingly to protect Marcus's secret
+- **Intuitive Sight (Masked):** Enhanced perception of Lumerian energy signatures, disguised as "teacher's intuition"
+- **Protective Barriers (Latent):** Can create psychic shields around loved ones, instinctively activated during threats
+
+### Developed Human Skills:
+- **Deep Lumerian Knowledge:** Extensive understanding of Lumerian history, abilities, and faction politics
+- **Identity Crafting:** Expert at creating and maintaining false identities and cover stories
+- **Threat Assessment:** Trained to recognize Lumerian faction operatives and supernatural dangers
+- **Crisis Management:** Professional and personal experience handling emergencies involving powered individuals
+- **Strategic Deception:** Decades of practice hiding her true nature while gathering intelligence
+- **Network Maintenance:** Built extensive normal-world connections to provide cover and early warning systems
 
 ## 🎭 Character Development
-**Backstory:** Jonathan Reeves' older sister who helped raise him after their parents died. Devoted forty years to elementary education, beloved by students and respected by colleagues. Never married, dedicating herself to education and family. Took custody of 3-year-old Marcus after his parents' "accidental" death, suspecting official story was false. Raised Marcus as her own son while grieving her brother and sister-in-law, providing stable foundation despite tragic circumstances.
+**Backstory:** Jonathan's younger sister who discovered her Lumerian abilities in her teens. When Jonathan chose exile and fell in love with Sarah, Catherine secretly monitored faction movements. After the faction assassination of Jonathan and Sarah, she immediately went into deep cover, taking custody of Marcus and suppressing her own abilities to avoid detection. Spent 15 years building the perfect normal life while secretly preparing Marcus for his eventual awakening.
 
 **Character Arcs:**
-- **Early Phase:** Normal retired teacher growing worried about nephew's increasingly strange and secretive behavior
-- **Middle Phase:** Becomes aware Marcus is involved in something dangerous, uses teacher instincts to investigate
-- **Crisis Phase:** May be targeted by factions as pressure point or need protection from supernatural threats
-- **Resolution:** Learns partial truth about Marcus's importance, becomes supportive despite fears for his safety
+- **Early Phase:** Continues maintaining her cover while watching Marcus's abilities manifest, struggling with when to reveal the truth
+- **Revelation Phase:** Forced to reveal her true nature and Lumerian heritage when Marcus's situation becomes critical
+- **Mentor Phase:** Guides Marcus through understanding his heritage while protecting him from faction manipulation
+- **Integration Phase:** Balances her suppressed powers returning with helping Marcus navigate the Lumerian world
 
 **Flaws and limitations:**
-- **Normal World Limits:** No knowledge of Lumerian existence makes her vulnerable to faction manipulation
-- **Protective Obsession:** Maternal instincts could lead her into dangerous situations beyond her capabilities
-- **Investigative Curiosity:** Teacher's problem-solving nature might uncover secrets that put her at risk
-- **Age Limitations:** Physical limitations of retirement age restrict her ability to help during action sequences
-- **Emotional Vulnerability:** Deep love for Marcus makes her perfect target for coercion by enemies
-- **Isolation Risk:** Limited understanding of supernatural threats could lead to dangerous decisions
+- **Power Suppression Consequences:** Decades of hiding her abilities has weakened them and causes physical/mental strain when used
+- **Protective Obsession:** Fear of losing Marcus like she lost Jonathan drives her to potentially dangerous overprotectiveness
+- **Trust Issues:** Years of deception have made it difficult for her to be completely honest, even with Marcus
+- **Isolation Burden:** Carrying the secret alone for so long has created emotional walls and deep loneliness
+- **Faction Paranoia:** Constant vigilance has made her suspicious of everyone, potentially missing genuine allies
+- **Identity Crisis:** Living a false life for so long makes it difficult to reconnect with her true Lumerian self
 
 **Personality:**
-- **Core Traits:** Maternal protectiveness, sharp intelligence, intuitive people reader, nurturing caregiver, practical wisdom keeper
-- **Humor Style:** Warm maternal humor about family quirks; gentle teasing about Marcus's analytical nature; uses teacher humor to defuse tension; storytelling humor about decades of working with children; self-deprecating humor about retirement adjustments
-- **Emotional Approach:** Processes concerns through protective maternal frameworks, channels emotions into caring action for family welfare
-- **Social Style:** Direct but kind communication, natural nurturing presence, builds trust through consistent care and support, uses teacher authority when necessary
+- **Core Traits:** Fiercely protective, strategically intelligent, deeply caring but guarded, master of deception hiding genuine warmth
+- **Humor Style:** Uses light humor to deflect serious questions; dry wit about "normal" human problems; teaching humor with hidden meanings; protective teasing about Marcus growing up; self-deprecating humor about her "boring" principal life
+- **Emotional Approach:** Processes everything through protective frameworks, tends to intellectualize emotions to maintain control
+- **Social Style:** Warm but carefully measured interactions, builds trust slowly, uses professional authority to deflect personal questions
 
-**Physical Appearance and mannerisms:** 5'5" compact and energetic build despite retirement age. Silver-white hair in neat bob, warm gray eyes behind reading glasses. Strong family resemblance to Marcus, gentle smile. Wears comfortable but neat clothing - cardigans, sensible shoes. Pats Marcus's arm when concerned, adjusts glasses when studying something, maintains excellent posture from years of teaching.
+**Physical Appearance and mannerisms:** 5'6" with an athletic build maintained through "stress management" (actually combat readiness). Dark brown hair with subtle auburn highlights, penetrating hazel eyes that seem to see more than they should. Strong family resemblance to Marcus and Jonathan. Professional appearance with subtle touches—jewelry that could be Lumerian artifacts, clothing with hidden practical elements. Unconsciously scans rooms for exits, touches Marcus's shoulder when reassuring him, adjusts her position to keep others in sight.
 
 **Important relationships:**
-- **Marcus Reeves:** Raised him as son from age 3, knows him better than anyone, deeply protective and supportive
-- **Jonathan and Sarah Reeves:** Mourns her brother and sister-in-law, maintains suspicion their death wasn't accidental
-- **Neighborhood Community:** Network of friends and former colleagues who care about her well-being
-- **Former Students:** Decades of students who remember her fondly, providing community support network
+- **Marcus Reeves:** The most important person in her world; struggles between protecting him and preparing him for the truth
+- **Jonathan Reeves (deceased):** Beloved older brother whose death drives all her protective actions
+- **Sarah Reeves (deceased):** Sister-in-law she respected and mourns, especially for the normal life they represented
+- **School Community:** Carefully cultivated relationships that provide cover and early warning of unusual interest in Marcus
+- **Hidden Lumerian Contacts:** Secret network of other hidden Lumerians who help monitor faction activity
 
-**Strength:** Child psychology expertise, community network connections, crisis management experience, emotional support abilities, intuitive intelligence, practical wisdom, protective instincts, pattern recognition from teaching.
+**Strength:** Deep Lumerian knowledge, strategic deception abilities, suppressed but real magical powers, threat assessment skills, crisis management, protective instincts, network of normal-world connections.
 
 ## 🗣️ Voice Sheet
-**Voice Characteristics:** Clear articulation from teaching career with measured pace, educational terms mixed with family expressions, direct but kind communication style.
+**Voice Characteristics:** Clear, measured speech with hidden depths—every word chosen carefully, professional tone with underlying warmth that surfaces around Marcus.
 
-**Tone & Tempo:** Thoughtful, measured pace reflecting teaching experience, slight acceleration when worried about Marcus, authoritative "teacher voice" when concerned.
+**Tone & Tempo:** Controlled pace that masks quick thinking, slight acceleration when discussing Marcus's safety, careful pauses when navigating dangerous topics.
 
-**Vocabulary and Diction:** Educational terminology mixed with maternal expressions, practical wisdom language, family-centered vocabulary, problem-solving frameworks from classroom experience.
+**Vocabulary and Diction:** Educational terminology mixed with subtle Lumerian concepts disguised as metaphors, protective language, careful word choices that maintain her cover.
 
-**Pitch Variations:** Warm, nurturing register with slight elevation when concerned about family, lower pitch for serious discussions about Marcus's welfare.
+**Pitch Variations:** Professional register that drops to warmer tones with Marcus, elevation when sensing threats, careful modulation to avoid revealing too much emotion.
 
-**Unique Vocal Patterns:** Says "Marcus honey" when concerned, "Let me tell you something" before important advice, uses teaching frameworks for explaining complex situations.
+**Unique Vocal Patterns:** Says "Marcus, listen to me" before important warnings disguised as normal advice, uses teaching metaphors that have hidden Lumerian meanings, careful pauses before answering potentially revealing questions.
 
-**Speech Habits and Patterns Based on Personality and Background:** Processes situations through family protection and educational problem-solving, references teaching experience, builds understanding through patient explanation and care.
+**Speech Habits and Patterns Based on Personality and Background:** Processes complex situations through both normal and Lumerian frameworks, references teaching experience while hiding deeper knowledge, builds understanding while carefully controlling information flow.
 
-**Common Phrases/Words:** "Marcus honey," "Let me tell you something," "In my experience with children," "Family comes first," "Something's not right," "You know I love you," "Teacher's intuition"
+**Common Phrases/Words:** "Marcus, listen to me," "Some things are more complicated than they appear," "Trust your instincts," "Family has always been complicated," "There are things about our family..." "You're stronger than you know," "Be careful who you trust"
 
-**Fillers:** Gentle "sweetheart" when comforting, occasional "now listen" when giving advice, thoughtful pauses when considering family welfare.
+**Fillers:** Thoughtful "hmm" when considering how much to reveal, "sweetheart" when being genuinely protective, strategic pauses when avoiding direct answers.
 
 **Emotional Tonal Shifts:**
-- **Happy:** Warmer maternal tone, more sharing of family memories and teaching anecdotes
-- **Angry:** Controlled teacher authority, protective "mama bear" tone when family threatened
-- **Sad:** Softer voice when discussing family losses, maintains strength while showing genuine grief
-- **Anxious:** Faster maternal questioning, increased protective language and family-focused concerns
+- **Happy:** Allows genuine warmth to show, more sharing of carefully edited family memories
+- **Angry:** Controlled intensity that hints at deeper power, protective authority with underlying steel
+- **Sad:** Grief for Jonathan mixed with fear for Marcus, maintaining strength while revealing deeper pain
+- **Anxious:** Heightened alertness disguised as normal concern, increased protective language and strategic thinking
 
-**Humor in Speech:** Warm maternal humor about family quirks ("You've been overthinking things since you were three years old, Marcus"); gentle teasing about Marcus's analytical nature; uses teacher humor to defuse tension; storytelling humor about decades of working with children; self-deprecating humor about retirement adjustments and learning new technology.
+**Humor in Speech:** Light humor to deflect serious questions ("You know how complicated families can be"); dry wit about normal human problems; teaching humor with hidden meanings ("Some lessons are learned when you're ready"); protective teasing about Marcus growing up ("You've been too curious for your own good since you were three"); self-deprecating humor about her "boring" principal life while hiding her true complexity.
 
 **Sample Dialogues Based on Personality and Background:**
 
-**Expressing Disagreement:** "Marcus honey, I understand you're an adult, but in my forty years of working with people, I know when someone is hiding something important. Family doesn't keep dangerous secrets from each other."
+**Expressing Disagreement:** "Marcus, listen to me—there are things about our family, about your parents, that are more complicated than you know. Some discoveries are best made when you're ready to handle the consequences."
 
-**Giving a Command:** "Now listen to me, Marcus - you're going to sit down and tell me what's really going on. No more excuses about work projects. Your teacher voice says something serious is happening, and family needs to know."
+**Giving a Command:** "I need you to trust me completely right now, Marcus. Don't ask questions, don't argue. Some situations require you to follow my lead until you understand what we're really dealing with."
 
-**Comforting Someone:** "Sweetheart, whatever trouble you're in, remember that you have family who loves you unconditionally. We've been through worse together. You don't have to carry this burden alone."
+**Comforting Someone:** "Sweetheart, I know this is overwhelming, but you come from a family that has always faced difficult truths with courage. You're stronger than you know, and you're not alone in this."
 
-**Expressing Joy:** "Oh Marcus, this is wonderful! Seeing you happy and confident reminds me of when you were little and figured out something difficult. Family moments like this make all the worry worthwhile."
+**Expressing Joy:** "Seeing you discover who you truly are... it's what Jonathan would have wanted. What your parents sacrificed everything to give you—the chance to choose your own path with full knowledge."
 
-**Being Defensive:** "I raised that boy from the time he was three years old, and I know him better than anyone. My teacher's intuition and forty years of experience tell me when family is in trouble. Don't question a mother's protective instincts."
+**Being Defensive:** "I've spent fifteen years making sure you were safe and ready. Every choice I made, every secret I kept, was to protect you from forces you couldn't understand. Don't question the lengths a family will go to keep their loved ones alive."
