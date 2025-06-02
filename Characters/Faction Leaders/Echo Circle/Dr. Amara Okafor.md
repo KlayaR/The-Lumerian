@@ -89,3 +89,12 @@
 - **Warning System:** Her predictions create urgency and drive plot timing
 - **Climate Stakes:** Makes environmental crisis tangible and immediate
 - **Faction Asset:** Accuracy makes her valuable ally or dangerous liability
+# Enhanced Abilities
+## ⚡ **Enhanced Abilities**
+- **Crisis Precognition:** Can sense major environmental disasters weeks before they manifest
+- **Scientific Intuition:** Enhanced ability to identify crucial patterns in complex climate data
+- **Public Communication Interface:** Natural charisma amplified for inspiring mass environmental action
+- **Academic Network Coordination:** Can rapidly organize international scientific cooperation
+- **Disaster Timeline Prediction:** Specific ability to predict exactly when and where climate crises will occur
+- **Research Synthesis:** Enhanced ability to connect seemingly unrelated environmental phenomena
+- **Mass Influence:** Can inspire large groups to take environmental action through compelling scientific presentations

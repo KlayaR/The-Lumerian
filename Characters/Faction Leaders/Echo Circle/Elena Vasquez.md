@@ -157,3 +157,12 @@ Elena is a brilliant environmental psychology professor whose entire academic ca
 *Development Arc: Manipulative operative → Environmental coordinator → Cooperative specialist*  
 *Role Function: Environmental perspective and international cooperation resources*  
 *Resolution: Environmental expertise contributing to weapon shutdown success*
+# Enhanced Abilities
+## ⚡ **Enhanced Abilities**
+- **Emotional Manipulation:** Can read and influence others' emotional states through enhanced empathy
+- **Psychological Analysis:** Enhanced ability to understand and predict human behavior for crisis coordination
+- **Enhanced Charisma:** Natural magnetism amplified by Lumerian genetics, inspiring cooperation and trust
+- **Stress Resistance:** Maintains perfect composure even under weapon crisis pressure
+- **Social Network Interface:** Enhanced ability to coordinate complex multi-person operations and information networks
+- **Persuasion Mastery:** Can craft arguments that resonate with individual psychological profiles
+- **Group Dynamics Control:** Instinctively understands and can guide team coordination and conflict resolution

@@ -170,3 +170,12 @@ Viktor is a deadly weapon forged from guilt and institutional conditioning. Orig
 *Development Arc: Perfect operative → Conflicted hunter → Redeemed protégé*  
 *Role Function: Personal threat escalating to family protector*  
 *Resolution: Redemption through choosing family over institutional survival*
+# Enhanced Abilities
+## ⚡ **Enhanced Abilities**
+- **Psychological Pattern Recognition:** Enhanced ability to predict human behavior and decision-making under pressure
+- **Guilt Suppression Interface:** Can consciously suppress emotional responses to maintain operational effectiveness
+- **Strategic Memory Recall:** Perfect recall of tactical information, operational details, and psychological profiles
+- **Analytical Precognition:** Uses enhanced pattern recognition to predict enemy actions 3-5 seconds in advance
+- **Institutional Interface:** Enhanced ability to navigate and manipulate bureaucratic and organizational systems
+- **Survival Instinct Amplification:** Enhanced self-preservation reflexes and threat assessment capabilities
+- **Psychological Conditioning Resistance:** Can maintain functionality despite extreme emotional or psychological pressure
