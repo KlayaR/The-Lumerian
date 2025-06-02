@@ -5,7 +5,7 @@
 
 ## 📖 **Project Overview**
 
-**The Lumerian is an ambitious 400+ chapter webnovel combining urban fantasy, action thriller, romance, and science fiction elements. The story follows Marcus Reeves, a paranoid analyst who discovers ancient civilization while investigating his parents' assassination, gaining knowledge of a shadow war between three factions racing to prevent Earth's climate system from catastrophically failing.
+**The Lumerian is an ambitious 400+ chapter webnovel combining urban fantasy, action thriller, romance, and science fiction elements. The story follows Marcus Reeves, a paranoid analyst who discovers ancient civilization while investigating his parents' assassination, gaining knowledge of a shadow war between three factions racing to prevent an ancient weather control weapon from awakening and cooking Earth within three years.**
 
 **Target Audience:** Readers who appreciate intelligent protagonists, systematic world-building, competence-based romance, and technical problem-solving over chosen one narratives.
 
@@ -14,7 +14,7 @@
 ## 🎯 **Core Story Concept**
 
 ### **The Premise**
-Marcus Reeves, a 25-year-old enhanced analyst, discovers he can interface with 12,800-year-old asteroid-stone technology while investigating his parents' murder. He finds himself in the middle of a conflict between three Lumerian factions as Earth's ancient climate management system approaches catastrophic failure - threatening to transform the planet into an uninhabitable Venus-like world within three years.
+Marcus Reeves, a 25-year-old enhanced analyst, discovers he can interface with 12,800-year-old asteroid-stone technology while investigating his parents' murder. He finds himself in the middle of a conflict between three Lumerian factions as an ancient weather control weapon prepares to awaken - threatening to cook the planet within three years.
 
 ### **The Anti-Hero Angle**
 Unlike typical chosen one narratives, Marcus solves the crisis through **analytical competence** and **technical expertise** rather than destiny or heroic sacrifice. He gets exactly what he wants: to return to independent research with an intellectual equal partner, using his enhanced abilities for personally satisfying projects rather than ongoing world-saving duties.
@@ -34,11 +34,11 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 
 - **Act 2: Escalation Phase (Chapters 101-300)** - 18 months timeline  
   - Global chase across ancient sites worldwide
-  - Asteroid interference revelation and faction cooperation
+  - Weather weapon awakening signs and faction cooperation
   - Power development and relationship deepening
 
 - **Act 3: Resolution Phase (Chapters 301-400+)** - 12 months timeline
-  - Time loop revelation and pattern solution discovery
+  - Ancient weapon system analysis and solution discovery
   - Global coordination sequence and crisis resolution
   - Return to independent research life
 
@@ -76,19 +76,21 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 ## 🌍 **World-Building Elements**
 
 ### **The Lumerian Heritage**
-- **Ancient civilization** that deliberately crashed asteroid into their dying planet to prevent climate crisis
-- **Asteroid-stone technology** enables climate management and cognitive enhancement
-- **Pathway enhancement** - dormant abilities activated in Lumerian descendants
-- **Three modern factions** with different approaches to crisis and human integration
-- **Civilization Responsible for global mysteries** like the Great Pyramid, Göbekli Tepe, Puma Punku / Tiwanaku, etc
+- **Ancient asteroid impact (hundreds of millions of years ago)** gave Lumerians genetic pathways and enhancement potential
+- **Weather control weapon malfunction** 12,800 years ago prompted deliberate second asteroid impact
+- **Pathway enhancement** - dormant abilities activated in Lumerian descendants from first asteroid
+- **Three modern factions** with different approaches to stopping the weapon
+- **Civilization responsible for global mysteries** like the Great Pyramid, Göbekli Tepe, Puma Punku / Tiwanaku, etc
 
 ### **The Climate Crisis**
-- **12,800-year-old system** artificially stabilizing Earth's climate approaching failure
-- **3-year countdown** to Venus-like transformation (400-500°C surface temperatures)
-- **External interference** from non-terrestrial sources attacking planetary systems
-- **Technical solution** requires global coordination and ancient technology interface
+- **Ancient weather control weapon** went rogue and was supposed to be destroyed by second asteroid
+- **Weapon only went dormant** instead of being destroyed 12,800 years ago
+- **Modern pollution triggering reactivation** - weapon will wake up in 3 years
+- **Complete planetary sterilization** when weapon activates - cooking Earth's surface
+- **No known way to stop it** requires discovering ancient shutdown protocols
 
 ### **Enhancement System**
+- **Genetic pathways from first asteroid** (hundreds of millions of years old)
 - **Cognitive boost:** 20-30% faster processing speed
 - **Advanced reflexes:** Combat effectiveness through analytical prediction
 - **System interface:** Direct consciousness connection with ancient technology
@@ -99,17 +101,17 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 ## ⚔️ **Faction Framework**
 
 ### **Echo Circle (Environmental Extremists)**
-- **Philosophy:** Climate crisis requires immediate drastic action
+- **Philosophy:** Weapon activation requires immediate drastic action to prevent
 - **Methods:** Manipulation and information control
 - **Representative:** Elena Vasquez (psychological operations specialist)
 
 ### **Silent Veil (Government Control)**
-- **Philosophy:** Enhanced abilities too dangerous for civilian control
+- **Philosophy:** Enhanced abilities too dangerous for civilian control during crisis
 - **Methods:** Assassination and technological suppression
 - **Representative:** Viktor Kazansky (elite operative)
 
 ### **Conflux (Technological Integration)**
-- **Philosophy:** Enhanced humans should lead baseline humanity
+- **Philosophy:** Enhanced humans should lead the technical solution
 - **Methods:** Technological superiority and selective recruitment
 - **Representative:** Commander Thane Voss (military coordinator)
 
@@ -132,7 +134,7 @@ Marcus's relationship with Dr. Aria Delacroix (French archaeologist and acoustic
 ### **Scientific Grounding**
 - **Ancient technology** based on real physics and archaeological sites
 - **Enhancement system** with clear limitations and biological basis
-- **Climate science** grounded in actual environmental research
+- **Weather weapon science** grounded in atmospheric research
 - **Pattern recognition** abilities reflecting real cognitive enhancement
 
 ---
