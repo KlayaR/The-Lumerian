@@ -1,6 +1,6 @@
 # Character Sheet Template
 
-## Basic Information
+## 📋 Basic Information
 **Name:**
 **Nickname:** (if any)
 **Short global description of the character (around 75 words):**
@@ -9,7 +9,7 @@
 **Occupation:**
 **Story Role:** (Protagonist, Antagonist, Mentor, Background Character, Supportive Character)
 
-## Abilities
+## ⚡ Abilities
 (between 5 and 10 for the most powerful)
 -
 -
@@ -17,14 +17,18 @@
 -
 -
 
-## Character Development
+## 🎭 Character Development
 **Backstory:**
 
 **Character Arcs:**
 
 **Flaws and limitations:**
 
-**Personality (core traits):**
+**Personality:**
+- **Core Traits:**
+- **Humor Style:** (e.g., sarcastic, dry wit, dad jokes, self-deprecating, uses humor as defense mechanism, tries to be funny but isn't, dark humor, no sense of humor, etc.)
+- **Emotional Approach:** (How they handle emotions - intellectualize, suppress, express openly, etc.)
+- **Social Style:** (Introverted/extroverted, leadership style, how they interact with others)
 
 **Physical Appearance and mannerisms:**
 
@@ -32,7 +36,7 @@
 
 **Strength:**
 
-## Voice Sheet
+## 🗣️ Voice Sheet
 **Voice Characteristics:**
 
 **Tone & Tempo:**
@@ -50,6 +54,8 @@
 **Fillers:** (e.g., "um", "well", "you see")
 
 **Emotional Tonal Shifts:** (e.g., how voice changes when happy, sad, angry)
+
+**Humor in Speech:** (How their humor style manifests in dialogue - timing, delivery, types of jokes)
 
 **Sample Dialogues Based on Personality and Background:**
 
