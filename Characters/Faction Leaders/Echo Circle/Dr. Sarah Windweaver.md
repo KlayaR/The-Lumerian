@@ -5,11 +5,11 @@
 
 ## 📋 **Basic Information**
 - **Full Name:** Dr. Sarah Windweaver
-- **Age:** 298 years old (appears 45)
+- **Age:** 48
 - **Occupation:** Echo Circle North American Operations Director
 - **Heritage:** Lumerian descendant with advanced pathway development
 - **Current Position:** Yellowstone Research Complex Director
-- **Enhancement Status:** Advanced pathway abilities specialized in environmental tactics and asteroid material conservation
+- **Enhancement Status:** Advanced pathway abilities specialized in tactical coordination and resource management
 
 ## 👤 **Physical Appearance**
 - **Height:** 5'8" (173 cm)
@@ -26,12 +26,12 @@
 ---
 
 ## 🏠 **Background**
-- **Early Life:** Born during the American Civil War, witnessed environmental destruction from industrialization
-- **Military Service:** Served as environmental reconnaissance specialist during WWI and WWII
-- **Echo Circle Recruitment:** Joined after seeing industrial pollution's impact on global climate systems
-- **Career Development:** Rose through ranks due to tactical brilliance and environmental expertise
-- **Yellowstone Assignment:** Appointed to manage North American operations 50 years ago
-- **Current Role:** Coordinates environmental monitoring and provides safe haven for faction members
+- **Early Life:** Born in Montana to a family with strong environmental conservation traditions
+- **Education:** Advanced degrees in environmental science and resource management from University of Montana
+- **Echo Circle Recruitment:** Recruited during graduate studies after abilities manifested during research expedition
+- **Career Development:** Rose through ranks due to tactical brilliance and resource optimization expertise
+- **Yellowstone Assignment:** Appointed to manage North American operations 15 years ago based on demonstrated competence
+- **Current Role:** Coordinates tactical operations and provides safe haven coordination for faction members
 
 ---
 
@@ -45,11 +45,13 @@
 ---
 
 ## ⚡ **Pathway Abilities**
-- **Environmental Sensing:** Can detect subtle changes in weather patterns and ecosystem health
-- **Asteroid Material Conservation:** Expert at maximizing efficiency of limited resources
-- **Tactical Coordination:** Enhanced spatial awareness for strategic planning
-- **Weather Prediction:** Atmospheric sensitivity allows accurate local weather forecasting
-- **Ecosystem Interface:** Can sense disruptions in natural systems through pathway connection
+- **Tactical Environmental Interface:** Can use natural terrain and weather as strategic advantages in operations
+- **Resource Optimization:** Expert at maximizing effectiveness of limited asteroid material supplies
+- **Multi-Site Coordination:** Enhanced ability to coordinate operations across vast geographic distances
+- **Operational Security:** Can establish and maintain secure communication networks in hostile environments
+- **Strategic Pattern Recognition:** Enhanced ability to predict enemy faction movements and counter-strategies
+- **Safe Haven Creation:** Can identify and prepare secure locations for faction operations and refuges
+- **Crisis Resource Management:** Expert at allocating limited resources during emergency situations
 
 ---
 
@@ -90,28 +92,3 @@
 ---
 
 *Character Status: Echo Circle military specialist essential for tactical coordination*
-# Pathway Abilities
-## ⚡ **Pathway Abilities**
-- **Tactical Environmental Interface:** Can use natural terrain and weather as strategic advantages in operations
-- **Resource Optimization:** Expert at maximizing effectiveness of limited asteroid material supplies
-- **Multi-Site Coordination:** Enhanced ability to coordinate operations across vast geographic distances
-- **Operational Security:** Can establish and maintain secure communication networks in hostile environments
-- **Strategic Pattern Recognition:** Enhanced ability to predict enemy faction movements and counter-strategies
-- **Safe Haven Creation:** Can identify and prepare secure locations for faction operations and refuges
-- **Crisis Resource Management:** Expert at allocating limited resources during emergency situations
-# Basic Information
-## 📋 **Basic Information**
-- **Full Name:** Dr. Sarah Windweaver
-- **Age:** 48
-- **Occupation:** Echo Circle North American Operations Director
-- **Heritage:** Lumerian descendant with advanced pathway development
-- **Current Position:** Yellowstone Research Complex Director
-- **Enhancement Status:** Advanced pathway abilities specialized in tactical coordination and resource management
-# Background
-## 🏠 **Background**
-- **Early Life:** Born in Montana to a family with strong environmental conservation traditions
-- **Education:** Advanced degrees in environmental science and resource management from University of Montana
-- **Echo Circle Recruitment:** Recruited during graduate studies after abilities manifested during research expedition
-- **Career Development:** Rose through ranks due to tactical brilliance and resource optimization expertise
-- **Yellowstone Assignment:** Appointed to manage North American operations 15 years ago based on demonstrated competence
-- **Current Role:** Coordinates tactical operations and provides safe haven coordination for faction members
