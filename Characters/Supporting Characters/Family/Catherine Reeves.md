@@ -13,6 +13,11 @@
 
 ---
 
+## 🎭 **Character Overview**
+Catherine is the warm, perceptive educator who became Marcus's surrogate mother after his parents' death, providing the only stable family foundation he has ever known. A retired elementary school principal with forty years of experience understanding people, she possesses the intuitive intelligence to recognize when her nephew is hiding something dangerous, even though she has no knowledge of the Lumerian world. Practical, nurturing, and fiercely protective, Catherine serves as Marcus's emotional anchor to normal human life and unconditional love. Her sharp teacher's instincts tell her that Marcus's recent secretive behavior signals real danger, making her both a source of strength and a potential vulnerability that factions could exploit to manipulate him.
+
+---
+
 ## 👤 **Physical Appearance**
 - **Height:** 5'5" (165 cm)
 - **Build:** Compact and energetic despite retirement

@@ -1,12 +1,19 @@
 # Natasha "Ghost" Petrov
 *The Loyal Weapon*
 
-## Basic Information
+## 📋 **Basic Information**
 - **Age:** 29
 - **Nationality:** Russian
 - **Profession:** Silent Veil Operative, Viktor's Lieutenant
 - **Current Status:** Viktor's most trusted field agent and tracker specialist
 - **Physical Description:** 5'6" with lean, athletic build. Platinum blonde hair kept short and practical. Pale blue eyes that seem to look through people. Moves with predatory grace, often wearing black tactical gear.
+
+---
+
+## 🎭 **Character Overview**
+Natasha is the perfect weapon—a Silent Veil operative shaped by systematic conditioning into an emotionally suppressed killing machine who serves Viktor with absolute loyalty. Enhanced with tracking abilities and technological interface capabilities, she speaks in clipped military terminology and views all interactions through tactical parameters, having never known genuine human connection beyond her programmed devotion to Viktor. Raised from childhood to eliminate empathy and individual desire, she represents the horrifying cost of faction loyalty taken to its extreme—someone who commits atrocities while genuinely believing she protects the world. Yet beneath the conditioning lies buried humanity that prolonged exposure to Marcus and Aria's genuine connection begins to crack, forcing her to confront the devastating question of whether redemption is possible for someone programmed to be inhuman.
+
+---
 
 ## Background
 Born in a Siberian military town to a Silent Veil operative father and human mother. When her Lumerian abilities manifested at age 14 - including enhanced tracking senses and limited technological interface - her father brought her into faction training.
@@ -129,6 +136,7 @@ Natasha is both perpetrator and victim - shaped into a weapon through systematic
 She's never experienced friendship, romantic love, or simple human kindness outside of manipulation. Her entire identity is built on serving others' purposes while believing it's her choice.
 
 The tragedy is that her awakening, if it comes, will force her to confront the horror of everything she's done while conditioned. Redemption requires accepting responsibility for actions taken without true free will.
+
 # Voice Sheet
 ## 🗣️ **Voice Sheet - ENHANCED FOR AI**
 
