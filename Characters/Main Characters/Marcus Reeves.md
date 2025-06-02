@@ -176,3 +176,11 @@ Marcus is a brilliant analytical mind whose life gets turned upside down when an
 *Development Arc: Independence → Coordination → Technical mastery → Return to research*  
 *Role Function: Weapon system operator and shutdown coordinator*  
 *Resolution: Anti-heroic success through technical competence*
+# Pathway Enhancement System
+## ⚡ **Marcus's Enhanced Abilities**
+- **Electromagnetic Mastery:** Can detect, analyze, and interface with electronic systems through bioelectric field projection (range: 50-100 meters)
+- **Pattern Recognition Amplification:** Processes complex data patterns 25% faster than baseline, identifies hidden connections others miss
+- **Ancient System Interface:** Unique compatibility with weapon monitoring technology - can maintain interface for 20-25 minutes safely
+- **Electronic Disruption:** Overloads or controls devices by matching their operating frequencies through conscious field modulation
+- **Enhanced Reflexes:** 40% faster reaction times during high-stress situations when asteroid material contact is maintained
+- **Analytical Acceleration:** Enhanced cognition allows real-time tactical analysis and multi-variable problem solving under pressure
