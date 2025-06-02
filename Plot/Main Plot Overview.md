@@ -357,3 +357,12 @@ Viktor Kazansky, a Silent Veil operative posing as State Department cultural att
 **Reader Impact:** Moral complexity - preventing "upgrade" might stunt human potential, but implementing it too fast could cause suffering
 
 **Enhanced Tension Element:** Marcus discovers he can override the system entirely, giving him power to choose humanity's evolutionary path - but using that power might trigger failsafes that cause the Venus-like extinction the system was built to prevent. Every choice becomes a potential catastrophe.
+# Chapter 4: The Suppression Pattern
+**Chapter 4: The Suppression Pattern**
+- Evidence validates institutional cynicism - academic suppression confirmed
+- Parents worked on similar frequency analysis 22 years ago
+- Brief emotional response when seeing parents' research, quickly rationalized
+- **Marcus's Insight:** Conspiracy bigger than academic politics
+- **Temporal Discovery:** Parents' research reveals mathematical patterns suggesting repeating cycles - this crisis has happened before through temporal recursion
+- **Personal Stakes Escalation:** They weren't just killed for ancient technology discovery, but for finding evidence of time loops
+- **Cliffhanger:** Parents' encrypted files contain temporal recursion mathematical proofs
