@@ -491,3 +491,5 @@
 - **Personal Stakes Escalation:** Technical challenge becomes betrayal tragedy
 - **Character Reinforcement:** Marcus's cold handling of Lisa contrasts with emotional complexity of betrayal revelation - shows he can compartmentalize attraction/manipulation but betrayal wounds run deeper
 - **Cliffhanger:** Elena forces recruitment ultimatum
+# **The Brother Revelation:** Genetic analysis during ability testing reveals Viktor is Marcus's older brother, taken by Silent Veil as infant and conditioned as ultimate weapon. Both share analytical abilities but opposite conditioning.
+**The Betrayal Revelation:** Genetic analysis during ability testing reveals Viktor was Jonathan Reeves' former research assistant and closest friend, treated like family before being recruited by Silent Veil. The brilliant young mathematician who became Jonathan and Sarah's most trusted colleague became the assassin who killed his surrogate family. Enhanced abilities allow Marcus to access security footage from 2003 showing Viktor's anguished hesitation before choosing institutional loyalty over personal bonds.
