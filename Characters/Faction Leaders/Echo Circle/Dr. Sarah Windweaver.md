@@ -1,94 +1,91 @@
-# Dr. Sarah Windweaver - Character Profile
-*Echo Circle Operations Chief*
+# Dr. Sarah Windweaver - Character Sheet
 
----
+## 📋 Basic Information
+**Name:** Dr. Sarah Windweaver
+**Nickname:** "Windweaver" to colleagues; "Sarah" to close friends
+**Short global description of the character (around 75 words):** A 48-year-old Echo Circle North American Operations Director who manages the Yellowstone Research Complex. Born in Montana with strong environmental conservation traditions, she combines tactical brilliance with resource optimization expertise. Enhanced with pathway abilities specialized in tactical coordination, she provides safe haven and strategic planning for faction operations. Genuine environmental passion drives her commitment to planetary welfare beyond faction politics, making her essential for crisis coordination and inter-faction cooperation.
+**Age:** 48
+**Nationality:** American (Montana-born)
+**Occupation:** Echo Circle North American Operations Director, Yellowstone Research Complex Director
+**Story Role:** Supportive Character (Faction Operations Leader)
 
-## 📋 **Basic Information**
-- **Full Name:** Dr. Sarah Windweaver
-- **Age:** 48
-- **Occupation:** Echo Circle North American Operations Director
-- **Heritage:** Lumerian descendant with advanced pathway development
-- **Current Position:** Yellowstone Research Complex Director
-- **Enhancement Status:** Advanced pathway abilities specialized in tactical coordination and resource management
+## ⚡ Abilities
+- **Tactical Environmental Interface:** Can use natural terrain and weather patterns as strategic advantages in field operations
+- **Resource Optimization:** Enhanced ability to maximize effectiveness of limited asteroid material supplies across operations
+- **Multi-Site Coordination:** Enhanced capability to coordinate complex operations across vast geographic distances simultaneously
+- **Operational Security:** Can establish and maintain secure communication networks in hostile or remote environments
+- **Strategic Pattern Recognition:** Enhanced ability to predict enemy faction movements and develop effective counter-strategies
+- **Safe Haven Creation:** Expert at identifying and preparing secure locations for faction operations and emergency refuges
+- **Crisis Resource Management:** Enhanced ability to allocate limited resources during emergency situations for maximum effectiveness
+- **Environmental Prediction:** Can predict weather and terrain changes for tactical planning and operational security
 
-## 👤 **Physical Appearance**
-- **Height:** 5'8" (173 cm)
-- **Build:** Athletic and resilient, decades of outdoor environmental work
-- **Hair:** Silver-streaked brown hair usually in practical braids
-- **Eyes:** Deep green eyes that seem to see environmental patterns others miss
-- **Complexion:** Weathered tan from years of fieldwork in extreme environments
-- **Facial Features:** Strong jaw, laugh lines around eyes, expressive eyebrows
-- **Posture:** Alert and confident, moves with environmental awareness
-- **Style:** Practical outdoor gear - fleece, hiking boots, weather-resistant clothing
-- **Distinctive Traits:** Always carries weather monitoring equipment, unconsciously checks wind direction
-- **Mannerisms:** Gestures toward compass directions when explaining, tests air quality by scent
+## 🎭 Character Development
+**Backstory:** Born in Montana to family with strong environmental conservation traditions. Earned advanced degrees in environmental science and resource management from University of Montana. Recruited by Echo Circle during graduate studies after pathway abilities manifested during research expedition in extreme weather conditions. Rose through faction ranks due to tactical brilliance and resource optimization expertise. Appointed to manage North American operations 15 years ago, establishing Yellowstone Research Complex as secure coordination center.
 
----
+**Character Arcs:**
+- **Early Phase:** Provides initial safe haven and tactical resources for Marcus and enhanced individual operations
+- **Middle Phase:** Coordinates Echo Circle military response during escalating faction warfare and ancient site discoveries
+- **Crisis Phase:** Becomes essential coordinator for environmental emergency response and inter-faction cooperation
+- **Resolution:** Helps establish permanent cooperation protocols and post-crisis resource management systems
 
-## 🏠 **Background**
-- **Early Life:** Born in Montana to a family with strong environmental conservation traditions
-- **Education:** Advanced degrees in environmental science and resource management from University of Montana
-- **Echo Circle Recruitment:** Recruited during graduate studies after abilities manifested during research expedition
-- **Career Development:** Rose through ranks due to tactical brilliance and resource optimization expertise
-- **Yellowstone Assignment:** Appointed to manage North American operations 15 years ago based on demonstrated competence
-- **Current Role:** Coordinates tactical operations and provides safe haven coordination for faction members
+**Flaws and limitations:**
+- **Trust Issues:** Cautious about other factions despite willingness to cooperate for environmental goals
+- **Resource Scarcity Stress:** Constant pressure to optimize limited asteroid material supplies affects decision-making
+- **Tactical Tunnel Vision:** Military background sometimes focuses on operational success over diplomatic solutions
+- **Environmental Burden:** Genuine passion for planetary welfare creates emotional stress about faction conflicts
+- **Leadership Isolation:** Responsibility for North American operations creates distance from field operatives
+- **Crisis Management Pressure:** High-stress coordination requirements can lead to decision fatigue
 
----
+**Personality:**
+- **Core Traits:** Tactical thinker, protective leadership, environmental passion, adaptable strategist, resource optimization expert
+- **Humor Style:** Practical outdoor humor about weather and terrain; dry wit about bureaucratic inefficiency; team-building humor that boosts morale during difficult operations; uses humor to relieve tension during crisis coordination
+- **Emotional Approach:** Processes stress through tactical planning and environmental connection, channels emotions into protective action for subordinates, maintains hope through practical problem-solving
+- **Social Style:** Direct and honest communication, leads by example and competence, builds loyalty through consistent protection of team members, military precision combined with environmental knowledge
 
-## 🧠 **Personality**
-- **Core Traits:** Tactical thinker, protective of assets, adapts quickly to changing situations
-- **Leadership Style:** Leads by example, earns respect through competence, protects subordinates
-- **Environmental Passion:** Genuinely committed to planetary welfare beyond faction politics
-- **Trust Issues:** Cautious about other factions but willing to cooperate for environmental goals
-- **Communication:** Direct and honest, uses military precision combined with environmental knowledge
+**Physical Appearance and mannerisms:** 5'8" athletic and resilient build from decades of outdoor environmental work. Silver-streaked brown hair in practical braids, deep green eyes that see environmental patterns. Weathered tan from fieldwork, strong jaw with laugh lines. Wears practical outdoor gear - fleece, hiking boots, weather-resistant clothing. Always carries weather monitoring equipment, unconsciously checks wind direction, gestures toward compass directions when explaining.
 
----
+**Important relationships:**
+- **Marcus Reeves:** Respects his analytical abilities, provides tactical support and safe haven during crisis operations
+- **Elena Vasquez:** Professional colleague who coordinates academic cover operations and environmental research networks
+- **Elder Matthias Kronos:** Reports to Elder council, implements strategic decisions for North American operations
+- **Viktor Kazansky:** Professional adversary whose operations she consistently counters with tactical superiority
+- **Commander Thane Voss:** Reluctant cooperation during crisis periods, mutual military respect despite faction opposition
 
-## ⚡ **Pathway Abilities**
-- **Tactical Environmental Interface:** Can use natural terrain and weather as strategic advantages in operations
-- **Resource Optimization:** Expert at maximizing effectiveness of limited asteroid material supplies
-- **Multi-Site Coordination:** Enhanced ability to coordinate operations across vast geographic distances
-- **Operational Security:** Can establish and maintain secure communication networks in hostile environments
-- **Strategic Pattern Recognition:** Enhanced ability to predict enemy faction movements and counter-strategies
-- **Safe Haven Creation:** Can identify and prepare secure locations for faction operations and refuges
-- **Crisis Resource Management:** Expert at allocating limited resources during emergency situations
+**Strength:** Tactical environmental interface, resource optimization mastery, multi-site coordination, operational security expertise, strategic pattern recognition, safe haven creation, crisis management, environmental prediction abilities.
 
----
+## 🗣️ Voice Sheet
+**Voice Characteristics:** Direct, practical speech with slight Montana accent, military precision combined with environmental terminology, tactical planning vocabulary.
 
-## 💪 **Skills & Expertise**
-- **Strategic Planning:** Military background combined with environmental systems thinking
-- **Environmental Tactics:** Uses terrain and weather conditions for tactical advantages
-- **Resource Management:** Maximizes limited asteroid material through careful allocation
-- **Crisis Coordination:** Experienced in managing complex emergency responses
-- **Non-lethal Combat:** Advanced self-defense focused on restraint and protection
-- **Survival Skills:** Expert in extreme weather survival and wilderness navigation
+**Tone & Tempo:** Confident, measured pace reflecting tactical thinking, slight acceleration during crisis coordination, authoritative delivery that inspires confidence in subordinates.
 
----
+**Vocabulary and Diction:** Environmental science terminology mixed with military tactical language, resource management vocabulary, practical outdoor expressions, strategic planning concepts.
 
-## 🎭 **Role in Story**
-- **Safe Haven Provider:** Yellowstone complex serves as crucial refuge during faction conflicts
-- **Resource Coordinator:** Manages Echo Circle's asteroid material allocation
-- **Strategic Advisor:** Provides tactical planning for ancient site operations
-- **Bridge Builder:** Helps facilitate cooperation between faction military specialists
-- **Mentor Figure:** Guides younger Echo Circle members in environmental tactics
+**Pitch Variations:** Steady, authoritative pitch with elevation for tactical emphasis, lower register for confidential strategic discussions.
 
----
+**Unique Vocal Patterns:** Gestures toward compass directions when explaining, references weather and terrain in tactical discussions, uses resource optimization language, frames problems through environmental solutions.
 
-## 💞 **Key Relationships**
-- **Marcus Reeves:** Respects his analytical abilities, provides tactical support and safe haven
-- **Elena Vasquez:** Professional colleague, coordinates academic cover operations
-- **Elder Matthias Kronos:** Reports to Elder council, implements strategic decisions
-- **Viktor Kazansky:** Professional adversary, counters Silent Veil operations
-- **Commander Thane Voss:** Reluctant cooperation during crisis, mutual military respect
+**Speech Habits and Patterns Based on Personality and Background:** Processes situations through tactical environmental frameworks, references practical outdoor experience, uses military precision with environmental passion, builds team morale through competent leadership.
 
----
+**Common Phrases/Words:** "Tactical assessment indicates," "Resource allocation suggests," "Environmental conditions favor," "Operational security requires," "Strategic positioning shows," "Safe haven protocols," "Crisis coordination demands"
 
-## 🎬 **Character Arc**
-- **Early Phase:** Provides initial safe haven and resources for Marcus
-- **Middle Phase:** Coordinates Echo Circle military response during faction warfare
-- **Crisis Phase:** Becomes essential coordinator for environmental emergency response
-- **Resolution:** Helps establish permanent inter-faction cooperation protocols
+**Fillers:** Minimal due to military training; occasional "Copy that" when acknowledging information, thoughtful pauses for tactical consideration.
 
----
+**Emotional Tonal Shifts:**
+- **Happy:** Warmer tone with more personal anecdotes about successful operations, increased team-building humor
+- **Angry:** Controlled military displeasure, clipped tactical language, increased reference to operational security
+- **Sad:** Maintains tactical bearing while showing genuine concern for environmental destruction or team casualties
+- **Anxious:** Faster tactical assessment language, increased reference to resource limitations and crisis protocols
 
-*Character Status: Echo Circle military specialist essential for tactical coordination*
+**Humor in Speech:** Practical outdoor humor about weather and terrain challenges ("If you can't handle Montana weather, you can't handle faction warfare"); dry wit about bureaucratic inefficiency; team-building humor that boosts morale during difficult operations; uses humor to relieve tension during crisis coordination; tactical humor about enemy faction predictability.
+
+**Sample Dialogues Based on Personality and Background:**
+
+**Expressing Disagreement:** "Tactical assessment contradicts that approach. Environmental conditions and resource limitations indicate alternative strategy would achieve better operational results. Recommend adjusting parameters based on field experience and terrain analysis."
+
+**Giving a Command:** "All teams maintain operational security protocols. Weather conditions provide tactical advantage for next six hours. Execute coordinated movement to safe haven locations. Resource allocation adjusted for extended operations."
+
+**Comforting Someone:** "Operational setbacks are part of tactical reality. Your team performed with competence under impossible conditions. Environmental challenges test everyone - focus on lessons learned and continued mission effectiveness."
+
+**Expressing Joy:** "Outstanding tactical execution! Environmental coordination succeeded beyond operational projections. Team performance proves proper training and resource allocation create mission success. Excellent work under pressure, everyone."
+
+**Being Defensive:** "My tactical methodology combines military precision with environmental expertise. Resource optimization and operational security have protected North American operations for fifteen years. Question my strategies if you must, but never question my commitment to team safety and mission success."
