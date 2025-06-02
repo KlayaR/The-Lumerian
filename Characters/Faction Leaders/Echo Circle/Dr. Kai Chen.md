@@ -15,6 +15,11 @@
 
 ---
 
+## 🎭 **Character Overview**
+Kai is the analytical mentor Marcus never knew he needed—a climate scientist whose enhanced abilities manifested during a solo Arctic expedition and who worked directly with Marcus's parents on their climate research. Calm, systematic, and deeply knowledgeable about both ancient Lumerian technology and enhanced ability development, Kai serves as the crucial bridge between Marcus's analytical nature and the cooperative partnerships required to operate planet-scale climate systems. His teaching methodology respects Marcus's need for logical verification while systematically developing both his enhanced abilities and his capacity for trust. Patient, protective, and carrying the weight of promises made to Jonathan and Sarah Reeves, Kai represents the father figure who guides through competence rather than emotion, ultimately sacrificing himself to ensure Marcus and Aria can complete the mission his generation started.
+
+---
+
 ## 👤 **Physical Appearance**
 - **Height:** 5'10" (178 cm)
 - **Build:** Lean and weathered from decades of field work, surprising physical endurance

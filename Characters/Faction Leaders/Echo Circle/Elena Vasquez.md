@@ -14,6 +14,11 @@
 
 ---
 
+## 🎭 **Character Overview**
+Elena is a brilliant environmental psychology professor whose entire academic career serves as cover for her true role as Echo Circle's most effective long-term operative. Enhanced with emotional manipulation abilities and trained from childhood to read and influence human psychology, she has spent twenty-five years perfecting a false identity so thoroughly that she can no longer distinguish between Elena the professor and Elena the spy. Sophisticated, charming, and genuinely accomplished in her field, she represents the seductive face of faction manipulation—someone who believes her cause justifies any means, even as she begins to question whether she remembers who she truly is beneath decades of calculated performance. Her assignment to recruit Marcus becomes complicated when his genuine analytical nature triggers feelings she thought she had eliminated, forcing her to choose between mission success and authentic human connection.
+
+---
+
 ## 👤 **Physical Appearance**
 - **Height:** 5'6" (168 cm)
 - **Build:** Elegant and fit, maintains careful appearance for both academic and operative roles
