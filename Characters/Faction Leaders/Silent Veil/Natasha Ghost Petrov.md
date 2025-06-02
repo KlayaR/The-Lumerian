@@ -296,3 +296,5 @@ Personal considerations: None. Mission success only metric. Copy.
 ```
 "Target behavior does not match threat profile. Elimination orders seem... inconsistent with observed data. Clarification needed."
 ```
+# Being Defensive
+**Being Defensive:** "Mission record demonstrates consistent success metrics. All eliminations completed within operational parameters. Viktor's training protocols effective. Personal assessment irrelevant to tactical results. Copy."

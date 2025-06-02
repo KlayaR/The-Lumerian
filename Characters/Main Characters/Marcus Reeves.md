@@ -1,6 +1,6 @@
 # Marcus Alexander Reeves - Character Sheet
 
-## Basic Information
+## 📋 Basic Information
 **Name:** Marcus Alexander Reeves
 **Nickname:** None (prefers his full name)
 **Short global description of the character (around 75 words):** A brilliant 25-year-old systems analyst whose dormant Lumerian heritage awakens when exposed to ancient asteroid material. Orphaned at three after his enhanced parents were assassinated, Marcus approaches everything through analytical frameworks. His pathway enhancement grants superhuman pattern recognition and the ability to interface with ancient weapon monitoring technology. Reserved, methodical, and deeply suspicious of institutions, he must learn strategic cooperation while preventing an extinction-level weather weapon crisis.
@@ -9,8 +9,7 @@
 **Occupation:** Independent digital systems consultant specializing in archaeological data analysis
 **Story Role:** Protagonist
 
-## Abilities
-(between 5 and 10 for the most powerful)
+## ⚡ Abilities
 - **Electromagnetic Mastery:** Can detect, analyze, and interface with electronic systems through bioelectric field projection (range: 50-100 meters)
 - **Pattern Recognition Amplification:** Processes complex data patterns 25% faster than baseline, identifies hidden connections others miss
 - **Ancient System Interface:** Unique compatibility with weapon monitoring technology - can maintain interface for 20-25 minutes safely
@@ -20,7 +19,7 @@
 - **Weapon System Communication:** Can mentally interface with ancient weapon networks to coordinate shutdown sequences
 - **Technical Pattern Synthesis:** Enhanced ability to understand complex technological systems and predict their behavior patterns
 
-## Character Development
+## 🎭 Character Development
 **Backstory:** Raised by aunt Catherine after parents Jonathan and Sarah Reeves died in a suspicious car accident when he was 3. Unknown to Marcus, his parents were pathway-enhanced Lumerians working on ancient weapon monitoring systems, assassinated by the Silent Veil for discovering weapon reactivation timelines. Developed into a fiercely independent systems analyst with unique analytical methodologies. His dormant Lumerian pathways activated at 25 when exposed to asteroid material in a museum ring, triggering enhanced abilities that make him essential for preventing a weather weapon crisis.
 
 **Character Arcs:** 
@@ -37,7 +36,11 @@
 - **Overthinking:** Enhanced pattern recognition can lead to seeing connections that aren't actually there
 - **Trust Issues:** Deep suspicion of institutions stems from parents' assassination and personal independence
 
-**Personality (core traits):** Hyper-analytical, pattern obsessed, methodical verification, stubborn independence, cynical about institutions, precise communication, emotional intellectualization, crisis-focused competence, prefers logical frameworks over emotional responses, values technical excellence and systematic approaches.
+**Personality:**
+- **Core Traits:** Hyper-analytical, methodical verification, stubborn independence, cynical about institutions, precise communication, crisis-focused competence, values technical excellence and systematic approaches
+- **Humor Style:** Dry, analytical humor as defense mechanism; makes technical jokes that only he finds funny; occasional deadpan sarcastic observations about human irrationality; humor "breaks through" his analytical facade when overwhelmed or exhausted
+- **Emotional Approach:** Intellectualizes emotions into data and frameworks to maintain psychological distance; "emotional leakage" moments when overwhelmed where his technical facade cracks completely
+- **Social Style:** Introverted, prefers working alone, leads through technical competence rather than charisma, gradually learns strategic cooperation without sacrificing independence
 
 **Physical Appearance and mannerisms:** 6'1" lean but athletic build, dark brown slightly unruly hair, sharp gray-green eyes that constantly analyze surroundings. Runs hands through hair when concentrating, adjusts glasses when processing information, maintains intense focused gaze. Wears simple practical clothing - dark jeans, button-down shirts, fleece jackets. Moves with deliberate precision, especially when working with technology.
 
@@ -49,7 +52,7 @@
 
 **Strength:** Technical competence, analytical precision, enhanced pattern recognition, strategic thinking, crisis management under pressure, systematic problem-solving, independence, verification abilities that confirm institutional manipulation, enhanced reflexes and cognition during emergencies.
 
-## Voice Sheet
+## 🗣️ Voice Sheet
 **Voice Characteristics:** Precise, measured, technical vocabulary with analytical qualifiers. Speaks in conditional logic patterns with emotional intellectualization.
 
 **Tone & Tempo:** Deliberate pace with technical precision, longer pauses for mental processing, measured delivery that reflects analytical thinking patterns.
@@ -71,6 +74,8 @@
 - **Angry:** Clipped, precise statements with increased technical terminology
 - **Sad:** Longer pauses, converts emotional content to analytical frameworks
 - **Anxious:** More specific measurements and percentages, increased verification language
+
+**Humor in Speech:** Deadpan delivery of technical observations that are unintentionally funny; dry sarcasm about human irrationality; "emotional leakage" moments where he drops technical language entirely ("Shit. I don't know what I'm doing."); makes jokes through overly precise technical descriptions of absurd situations.
 
 **Sample Dialogues Based on Personality and Background:**
 
