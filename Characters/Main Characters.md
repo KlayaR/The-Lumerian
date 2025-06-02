@@ -140,3 +140,6 @@
 ---
 
 *Character development arc details: See `/Plot/Character Arcs/Viktor Kazansky Arc.md`*
+# Chapter 4: The Suppression Pattern
+
+**Comedy Element:** Marcus's paranoid preparation for Dr. Rebecca Torres includes researching her publications, cross-referencing her institutional affiliations, and creating a risk assessment spreadsheet rating her "Potential Threat Level: 3.2/10 (appears genuinely interested in ancient acoustics, concerning level of eye contact during technical discussions)."
