@@ -112,3 +112,5 @@
 - **Neutral Authority:** Respected by all factions while committed to none
 - **Ancient Teacher:** Tests and guides potential leaders across faction lines
 - **Moral Challenge:** Forces examination of whether neutrality enables evil through inaction
+# Being Defensive
+**Being Defensive:** "I have maintained neutrality not from weakness, but from understanding the cost of choosing sides. In my 127 years, I have watched factions rise and fall, each believing their cause justified any means. The ancient wisdom teaches patience - sometimes the greatest action is knowing when not to act."
