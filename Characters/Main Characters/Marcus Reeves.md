@@ -2,8 +2,8 @@
 
 ## 📋 Basic Information
 **Name:** Marcus Alexander Reeves
-**Nickname:** None (prefers his full name)
-**Short global description of the character (around 75 words):** A brilliant 25-year-old systems analyst whose dormant Lumerian heritage awakens when exposed to ancient asteroid material. Orphaned at three after his enhanced parents were assassinated, Marcus approaches everything through analytical frameworks. His pathway enhancement grants superhuman pattern recognition and the ability to interface with ancient weapon monitoring technology. Reserved, methodical, and deeply suspicious of institutions, he must learn strategic cooperation while preventing an extinction-level weather weapon crisis.
+**Nickname:** None (prefers his full name, gets annoyed when people shorten it)
+**Short global description of the character (around 75 words):** A brilliant 25-year-old systems analyst whose dormant Lumerian heritage awakens when exposed to ancient asteroid material. Orphaned at three after his enhanced parents were assassinated, Marcus uses dry humor and analytical thinking to maintain distance from people and institutions. His pathway enhancement grants superhuman pattern recognition and the ability to interface with ancient weapon monitoring technology. Reluctant, sarcastic, and deeply suspicious of authority, he must learn to trust others while preventing an extinction-level weather weapon crisis.
 **Age:** 25
 **Nationality:** American
 **Occupation:** Independent digital systems consultant specializing in archaeological data analysis
@@ -11,80 +11,82 @@
 
 ## ⚡ Abilities
 - **Electromagnetic Mastery:** Can detect, analyze, and interface with electronic systems through bioelectric field projection (range: 50-100 meters)
-- **Pattern Recognition Amplification:** Processes complex data patterns 25% faster than baseline, identifies hidden connections others miss
+- **Pattern Recognition Amplification:** Processes complex data patterns faster than normal, spots connections others miss
 - **Ancient System Interface:** Unique compatibility with weapon monitoring technology - can maintain interface for 20-25 minutes safely
-- **Electronic Disruption:** Overloads or controls devices by matching their operating frequencies through conscious field modulation
-- **Enhanced Reflexes:** 40% faster reaction times during high-stress situations when asteroid material contact is maintained
-- **Analytical Acceleration:** Enhanced cognition allows real-time tactical analysis and multi-variable problem solving under pressure
+- **Electronic Disruption:** Overloads or controls devices by matching their operating frequencies
+- **Enhanced Reflexes:** Significantly faster reaction times during high-stress situations when asteroid material contact is maintained
+- **Analytical Acceleration:** Enhanced cognition allows real-time tactical analysis and problem-solving under pressure
 - **Weapon System Communication:** Can mentally interface with ancient weapon networks to coordinate shutdown sequences
-- **Technical Pattern Synthesis:** Enhanced ability to understand complex technological systems and predict their behavior patterns
+- **Technical Pattern Synthesis:** Enhanced ability to understand complex technological systems and predict their behavior
 
 ## 🎭 Character Development
-**Backstory:** Raised by aunt Catherine after parents Jonathan and Sarah Reeves died in a suspicious car accident when he was 3. Unknown to Marcus, his parents were pathway-enhanced Lumerians working on ancient weapon monitoring systems, assassinated by the Silent Veil for discovering weapon reactivation timelines. Developed into a fiercely independent systems analyst with unique analytical methodologies. His dormant Lumerian pathways activated at 25 when exposed to asteroid material in a museum ring, triggering enhanced abilities that make him essential for preventing a weather weapon crisis.
+**Backstory:** Raised by aunt Catherine after parents Jonathan and Sarah Reeves died in a suspicious car accident when he was 3. Unknown to Marcus, his parents were pathway-enhanced Lumerians working on ancient weapon monitoring systems, assassinated by the Silent Veil for discovering weapon reactivation timelines. Developed into a fiercely independent systems analyst who prefers working alone. His dormant Lumerian pathways activated at 25 when exposed to asteroid material in a museum ring, triggering enhanced abilities that make him essential for preventing a weather weapon crisis he never wanted to be involved in.
 
 **Character Arcs:** 
-- **Phase 1 (Discovery):** Pathway activation, heritage recognition, weapon threat discovery
-- **Phase 2 (Enhancement):** Ability development, weapon system interface mastery, partnership formation with Dr. Aria Delacroix
-- **Phase 3 (Coordination):** Accepts global coordinator role, learns strategic cooperation, prepares weapon shutdown
-- **Phase 4 (Resolution):** Leads coordinated weapon shutdown, defeats Viktor, returns to preferred research life with Aria
+- **Phase 1 (Discovery):** Pathway activation, heritage recognition, weapon threat discovery - "Wait, I'm supposed to save the world? I didn't sign up for this."
+- **Phase 2 (Enhancement):** Ability development, weapon system interface mastery, reluctant partnership with Dr. Aria Delacroix - learning he can't actually do this alone
+- **Phase 3 (Coordination):** Grudgingly accepts coordinator role, learns to trust his team, prepares weapon shutdown despite wanting to run away
+- **Phase 4 (Resolution):** Leads coordinated weapon shutdown, defeats Viktor, returns to research life with Aria but changed by the experience
 
 **Flaws and limitations:** 
-- **Analytical Arrogance:** Enhanced abilities can make him dismissive of "inferior" thinking
-- **Emotional Distance:** Uses enhanced cognition to avoid emotional vulnerability and maintain psychological safety
+- **Reluctant Hero Complex:** Constantly tries to find ways out of responsibility, would rather someone else handle the "save the world" stuff
+- **Deflection Through Humor:** Uses sarcasm and jokes to avoid dealing with serious emotional situations
 - **Asteroid Material Dependency:** Requires regular contact with asteroid material for optimal pathway function
-- **Toxicity Risk:** Extended weapon system interface sessions can cause serious health damage
-- **Overthinking:** Enhanced pattern recognition can lead to seeing connections that aren't actually there
-- **Trust Issues:** Deep suspicion of institutions stems from parents' assassination and personal independence
+- **Interface Toxicity:** Extended weapon system sessions can cause serious health damage
+- **Overthinking:** Enhanced pattern recognition can lead to seeing problems that aren't actually there
+- **Trust Issues:** Deep suspicion of institutions and authority figures stems from parents' assassination
 
 **Personality:**
-- **Core Traits:** Hyper-analytical, methodical verification, stubborn independence, cynical about institutions, precise communication, crisis-focused competence, values technical excellence and systematic approaches
-- **Humor Style:** Dry, analytical humor as defense mechanism; makes technical jokes that only he finds funny; occasional deadpan sarcastic observations about human irrationality; humor "breaks through" his analytical facade when overwhelmed or exhausted
-- **Emotional Approach:** Intellectualizes emotions into data and frameworks to maintain psychological distance; "emotional leakage" moments when overwhelmed where his technical facade cracks completely
-- **Social Style:** Introverted, prefers working alone, leads through technical competence rather than charisma, gradually learns strategic cooperation without sacrificing independence
+- **Core Traits:** Reluctantly analytical, uses humor as emotional armor, stubborn independence, cynical about authority, sharp observer of human absurdity, competent when forced to be but would rather be left alone
+- **Humor Style:** Self-deprecating, observational comedy about absurd situations, dry commentary on human behavior, sarcastic deflection when uncomfortable, genuine wit when relaxed
+- **Emotional Approach:** Jokes to avoid feelings, but has moments of genuine vulnerability when overwhelmed; humor "breaks" completely during real emotional crises
+- **Social Style:** Introverted by choice, reluctant leader who leads through competence and surprising moments of genuine care for his team
 
-**Physical Appearance and mannerisms:** 6'1" lean but athletic build, dark brown slightly unruly hair, sharp gray-green eyes that constantly analyze surroundings. Runs hands through hair when concentrating, adjusts glasses when processing information, maintains intense focused gaze. Wears simple practical clothing - dark jeans, button-down shirts, fleece jackets. Moves with deliberate precision, especially when working with technology.
+**Physical Appearance and mannerisms:** 6'1" lean but athletic build, dark brown slightly unruly hair, sharp gray-green eyes that often show amusement or exasperation. Runs hands through hair when stressed, has a habit of making dry observations under his breath, tends to slouch until he needs to focus. Wears practical clothing - jeans, t-shirts, hoodies, sneakers. Moves deliberately but not stiffly.
 
 **Important relationships:**
-- **Dr. Aria Delacroix:** Professional partner whose acoustic expertise complements his interface abilities; relationship develops from professional cooperation to intellectual partnership to love over 19+ months
-- **Viktor Kazansky:** Primary antagonist revealed as his father's former protégé; personal conflict over family betrayal and institutional loyalty
-- **Dr. Kai Chen:** Mentor who teaches systematic enhancement development and weapon monitoring technology before sacrificing himself
-- **Aunt Catherine:** Adoptive guardian who raised him after parents' death, provides emotional stability
+- **Dr. Aria Delacroix:** Professional partner whose acoustic expertise complements his interface abilities; relationship develops from reluctant cooperation to genuine partnership to love over 19+ months
+- **Viktor Kazansky:** Primary antagonist revealed as his father's former protégé; personal conflict over family betrayal and ideological differences
+- **Dr. Kai Chen:** Mentor who teaches enhancement development and weapon technology before sacrificing himself; Marcus struggles with grief and guilt
+- **Aunt Catherine:** Adoptive guardian who raised him, one of the few people he trusts completely and shows genuine warmth toward
 
-**Strength:** Technical competence, analytical precision, enhanced pattern recognition, strategic thinking, crisis management under pressure, systematic problem-solving, independence, verification abilities that confirm institutional manipulation, enhanced reflexes and cognition during emergencies.
+**Strength:** Technical competence, pattern recognition, strategic thinking under pressure, ability to find solutions others miss, genuine care for people despite his walls, surprising leadership when he stops trying to avoid responsibility.
 
 ## 🗣️ Voice Sheet
-**Voice Characteristics:** Precise, measured, technical vocabulary with analytical qualifiers. Speaks in conditional logic patterns with emotional intellectualization.
+**Voice Characteristics:** Conversational and accessible with dry humor, uses everyday language mixed with technical insights, frequently self-deprecating and observational about absurd situations.
 
-**Tone & Tempo:** Deliberate pace with technical precision, longer pauses for mental processing, measured delivery that reflects analytical thinking patterns.
+**Tone & Tempo:** Natural conversational pace with quick, witty interjections, tends to speed up when excited about a problem or nervous, slows down when being serious.
 
-**Vocabulary and Diction:** Technical specialist vocabulary, precise measurements and percentages, scientific terminology, systematic language patterns influenced by engineering and systems analysis education.
+**Vocabulary and Diction:** Mix of technical knowledge and everyday language, avoids jargon unless necessary, explains complex concepts in relatable terms, frequently uses pop culture references and modern expressions.
 
-**Pitch Variations:** Even, controlled pitch with slight elevation when explaining complex technical concepts, lower pitch when suspicious or defensive.
+**Pitch Variations:** Generally even tone with natural inflection, rises when making a joke or observation, drops to serious register when discussing real stakes or emotions.
 
-**Unique Vocal Patterns:** Frequent use of conditional "If X, then Y" constructions, statistical probability statements, enhanced cognition reflected through unconscious precision with numbers and patterns.
+**Unique Vocal Patterns:** Starts sentences with "So..." when explaining things, uses "apparently" and "turns out" frequently, often makes observations in the form of questions, tends to understate serious situations.
 
-**Speech Habits and Patterns Based on Personality and Background:** Converts personal situations into technical problems, processes relationships through efficiency metrics, uses verification language, approaches emotions as data to be analyzed.
+**Speech Habits and Patterns Based on Personality and Background:** Deflects serious moments with humor, makes technical observations sound casual, frequently comments on the absurdity of his situation, uses humor to test whether people are trustworthy.
 
-**Common Phrases/Words:** "Enhanced analysis suggests...", "Weapon monitoring indicates...", "Statistical probability...", "Shutdown protocols require...", "Pattern recognition confirms...", "Technical verification shows..."
+**Common Phrases/Words:** "So apparently...", "Turns out...", "Great, just great...", "Because that's not ominous at all...", "I'm sure this will end well...", "Let me guess...", "Of course it does..."
 
-**Fillers:** Minimal use of fillers; prefers silence for processing over verbal placeholders. Occasional "Let me analyze that..." when given complex information.
+**Fillers:** "Um..." when caught off guard, "So..." when transitioning to explanations, "I mean..." when clarifying or backtracking on emotional statements.
 
 **Emotional Tonal Shifts:** 
-- **Happy:** Slightly faster tempo, more detailed technical explanations
-- **Angry:** Clipped, precise statements with increased technical terminology
-- **Sad:** Longer pauses, converts emotional content to analytical frameworks
-- **Anxious:** More specific measurements and percentages, increased verification language
+- **Happy/Excited:** Faster pace, more enthusiastic explanations, genuine smile in his voice
+- **Angry:** Sharp, clipped humor, sarcasm becomes cutting rather than playful
+- **Sad/Vulnerable:** Humor disappears entirely, voice becomes quieter and more hesitant
+- **Anxious:** More frequent jokes, rapid-fire observations, nervous energy in speech
 
-**Humor in Speech:** Deadpan delivery of technical observations that are unintentionally funny; dry sarcasm about human irrationality; "emotional leakage" moments where he drops technical language entirely ("Shit. I don't know what I'm doing."); makes jokes through overly precise technical descriptions of absurd situations.
+**Humor in Speech:** Self-deprecating comments about his situation, dry observations about the absurdity around him, pop culture references, understatement of dramatic situations, genuine wit when comfortable with people.
 
 **Sample Dialogues Based on Personality and Background:**
 
-**Expressing Disagreement:** "Enhanced pattern recognition indicates a 73% probability that your assessment contains critical analytical gaps. The electromagnetic signatures don't correlate with your hypothesis within acceptable variance parameters."
+**Expressing Disagreement:** "So, I'm seeing some pretty big holes in that plan. Like, 'this could get everyone killed' sized holes. But hey, what do I know? I just talk to the ancient alien death machines."
 
-**Giving a Command:** "Weapon shutdown protocols require immediate electromagnetic field stabilization at coordinates 47.6062° N, 122.3321° W. Interface sequence must begin within the next 4.7 minutes to maintain optimal shutdown window."
+**Giving a Command:** "Okay, we need to stabilize the electromagnetic field at those coordinates in about five minutes, or this whole area becomes a really expensive crater. Not trying to be dramatic, just... that's actually what happens."
 
-**Comforting Someone:** "Psychological response patterns suggest elevated stress levels are interfering with optimal cognitive function. Statistical analysis of similar situations indicates 89% probability of successful resolution through systematic approach implementation."
+**Comforting Someone:** "Hey, look... I know this is insane. Trust me, three weeks ago my biggest worry was whether the coffee machine in my building would work. But we've got this, okay? I mean, probably. The math looks good."
 
-**Expressing Joy:** "Enhancement interface efficiency has exceeded projected parameters by 15.3%. Technical partnership metrics demonstrate optimal long-term cooperation potential. The data suggests this outcome represents significant positive development."
+**Expressing Joy:** "Did you see that? The interface actually worked! I mean, I thought it would, but there's always that moment where you think 'maybe today's the day I accidentally blow something up.' But nope, we're good!"
 
-**Being Defensive:** "Analytical verification confirms the accuracy of my assessment methodology. Enhanced pattern recognition specifically identified the inconsistencies your evaluation failed to detect. My technical framework doesn't require institutional validation."
+**Being Defensive:** "I know what I'm doing, okay? Just because I don't want to be the guy saving the world doesn't mean I don't know how. I've been talking to these systems longer than anyone else. Well, anyone else who's still alive, anyway."
+
+**Reluctant Hero Moment:** "Look, I didn't ask for this. I was perfectly happy analyzing boring archaeological databases and avoiding human contact. But apparently the universe has a sense of humor, so here we are. Let's just get this over with so I can go back to my normal, non-apocalyptic life."
