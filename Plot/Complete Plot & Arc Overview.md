@@ -337,3 +337,9 @@ Marcus Reeves, a 25-year-old enhanced analyst, discovers he can interface with a
 *Status: Comprehensive overview of all major and minor plot elements*  
 *Integration: All subplots serve character development and thematic exploration*  
 *Resolution: Anti-heroic technical excellence with optimal personal and planetary outcomes*
+# - **Electromagnetic anomaly discovery** validates paranoid worldview
+- **Lumerite contact discovery** triggers enhanced cognitive abilities and validates paranoid worldview
+# - **Enhancement abilities triggered** by asteroid-stone exposure
+- **Enhancement abilities triggered** by direct contact with Lumerite stones
+# - **Discovery:** Electromagnetic anomalies trigger enhanced abilities
+- **Discovery:** Lumerite contact triggers enhanced abilities
