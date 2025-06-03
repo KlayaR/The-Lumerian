@@ -311,3 +311,9 @@ Ancient Lumerians discovered how to harness the unique energy properties of aste
 *Status: Complete weather weapon technology framework designed for plot integration*  
 *Rating: Scientifically plausible, powerful but limited, comprehensible system*  
 *Threat Level: Planetary sterilization requiring unprecedented global cooperation*
+# Basic Concept
+**First asteroid impact (hundreds of millions of years ago):** Brought exotic matter with unique quantum field properties, created genetic enhancement pathways in early life forms
+**Second asteroid impact (12,800 years ago):** Destroyed advanced Lumerian civilization, failed to eliminate ancient weather weapon which entered dormancy
+Enhanced individuals can interface with both asteroid-stone technology and ancient weapon systems
+All effects result from consciousness-directed manipulation of quantum field properties through genetic pathways
+Ancient sites were built using asteroid stone at locations that amplify natural field effects

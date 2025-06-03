@@ -448,3 +448,11 @@
 - **Energy Systems:** Fusion and asteroid-stone power sources provide unlimited energy
 - **Space Technology:** Only faction with off-world capabilities and resources
 - **Manufacturing:** Automated systems can produce advanced technology without human labor
+# Prime Director Thane Voss
+**Prime Director Thane Voss:** 67 years old, overall leader, former military engineer with advanced pathway development
+**Innovation Director Dr. Lydia Volkov:** 58 years old, research and development chief, asteroid technology specialist
+**Implementation Director James Park:** 56 years old, corporate operations manager, business and technology integration expert
+**Assessment Director Dr. Sophie Laurent:** 61 years old, human development evaluator, anthropological technology specialist
+**Resource Director Commander Chen Wei:** 74 years old, asteroid material coordinator, former Echo Circle defector
+# Background
+**Background:** 67 years old, former military engineer with advanced pathway development specialized in technology interface

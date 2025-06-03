@@ -360,3 +360,11 @@
 - **Advanced Weapons:** Asteroid-stone enhanced firearms, surveillance tech, vehicles
 - **Air Assets:** Stealth aircraft, armed drones, satellite reconnaissance
 - **Naval Assets:** Submarines, fast attack boats for maritime operations
+# Archon Viktor Kazansky
+**Archon Viktor Kazansky:** Supreme commander, 40 years old, master operative with perfect mission record
+# Background
+**Background:** 67 years old, former KGB analyst, joined after Cold War intelligence experience# Cipher Elena Morozova
+**Cipher Elena Morozova:** Intelligence coordinator, 67 years old, global surveillance specialist
+**Phantom Dr. Heinrich Weber:** Research director, 74 years old, pathway technology developer
+**Wraith Commander Sarah Cross:** Operations chief, 59 years old, elimination specialist
+**Ghost James Morrison:** Asset coordinator, 63 years old, human infiltration expert

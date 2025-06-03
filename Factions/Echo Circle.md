@@ -384,3 +384,8 @@
 - **Research Facilities:** Asteroid-stone analysis labs in 15 countries
 - **Transportation:** Private aircraft, research vessels, academic exchange networks
 - **Information Network:** Access to most major climate and archaeological databases
+# Elder Matthias Kronos
+**Elder Matthias Kronos:** Current High Coordinator, 78 years old, climate systems specialist with advanced pathway development
+# Elder Sarah Windweaver
+**Elder Sarah Windweaver:** North American operations, 68 years old, asteroid material conservation expert
+**Elder Chen Wei-Lin:** Asian operations, 72 years old, atmospheric management specialist
