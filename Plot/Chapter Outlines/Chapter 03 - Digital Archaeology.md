@@ -204,3 +204,7 @@ Completes foundation setup - Marcus has knowledge, abilities, and identified the
 *Tension Level: Perfect escalation - personal stakes established, opposition identified*  
 *Character Authenticity: Marcus's analytical paranoia completely validated by discoveries*  
 *Plot Service: Essential foundation completion before partnership phase begins*
+# Marcus discovers systematic suppression of electromagnetic anomaly research spanning decades while his enhanced abilities allow him to penetrate encrypted databases, revealing his parents' research was part of a larger pattern of suppressed discoveries about ancient technology.
+Marcus discovers systematic suppression of Lumerite research spanning decades while his enhanced abilities allow him to penetrate encrypted databases, revealing his parents' research was part of a larger pattern of suppressed discoveries about the blue-green crystalline network embedded in ancient artifacts.
+# Marcus arrives at the Seattle Museum's secure digital archive determined to understand the global pattern he discovered. His enhanced cognitive abilities, triggered by the asteroid-stone ring exposure, allow him to bypass the museum's supposedly secure computer systems with unprecedented ease.
+Marcus arrives at the Seattle Museum's secure digital archive determined to understand the global Lumerite pattern he discovered. His enhanced cognitive abilities, triggered by direct contact with the blue-green crystalline ring, allow him to bypass the museum's supposedly secure computer systems with unprecedented ease.
